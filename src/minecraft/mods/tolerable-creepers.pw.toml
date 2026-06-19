@@ -1,0 +1,13 @@
+name = "Tolerable Creepers"
+filename = "tolerable_creepers-neoforge-1.21.1-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k9OKXOrZ/versions/G2Y5o8Bg/tolerable_creepers-neoforge-1.21.1-2.2.1.jar"
+hash-format = "sha1"
+hash = "89be3e2c012705922c820c373b07aa4d145d0f6c"
+
+[update]
+[update.modrinth]
+mod-id = "k9OKXOrZ"
+version = "G2Y5o8Bg"

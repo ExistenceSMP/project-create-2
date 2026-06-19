@@ -1,0 +1,13 @@
+name = "Modulation"
+filename = "modulation-neoforge-1.21.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItRzabx0/versions/1wjQYmlk/modulation-neoforge-1.21.1-1.5.0.jar"
+hash-format = "sha1"
+hash = "dc81ef2ccaffd74ee4d8a6da9900dfa58665798e"
+
+[update]
+[update.modrinth]
+mod-id = "ItRzabx0"
+version = "1wjQYmlk"

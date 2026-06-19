@@ -1,0 +1,13 @@
+name = "No Man's Delight"
+filename = "nomansdelight-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8ffHF0Dn/versions/SenUsdj1/nomansdelight-2.2.0.jar"
+hash-format = "sha1"
+hash = "28aa89d854ab2b70f0649ceb92c44ff74e8411c3"
+
+[update]
+[update.modrinth]
+mod-id = "8ffHF0Dn"
+version = "SenUsdj1"

@@ -1,0 +1,13 @@
+name = "Derp's Disc Fix"
+filename = "DiscFix.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O6QC3dOc/versions/8K3omNZY/DiscFix.zip"
+hash-format = "sha1"
+hash = "8e44535753aeabb64433a3104e294b994e2be1a0"
+
+[update]
+[update.modrinth]
+mod-id = "O6QC3dOc"
+version = "8K3omNZY"

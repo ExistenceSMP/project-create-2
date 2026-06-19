@@ -1,0 +1,13 @@
+name = "vista"
+filename = "vista-neoforge-1.21.1-4.4.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zuARv1N7/versions/XDmEbLHW/vista-neoforge-1.21.1-4.4.11.jar"
+hash-format = "sha1"
+hash = "4eba9b2b46a526dadfc7b656f192419367cdf9b7"
+
+[update]
+[update.modrinth]
+mod-id = "zuARv1N7"
+version = "XDmEbLHW"

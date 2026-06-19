@@ -1,0 +1,13 @@
+name = "Sodium Shadowy Path Blocks (SSPB)"
+filename = "sodium-shadowy-path-blocks-neoforge-4.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EIa1eiMm/versions/FpMmigWq/sodium-shadowy-path-blocks-neoforge-4.1.0.jar"
+hash-format = "sha1"
+hash = "315891dcf8459a53fe263d985073bef619c360d0"
+
+[update]
+[update.modrinth]
+mod-id = "EIa1eiMm"
+version = "FpMmigWq"
