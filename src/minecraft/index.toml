@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fieldguide-client.json"
+hash = "d2a372287e72858c76c81269b588ddb1806641f0493e5ad91ece96f17dcb5bdc"
+
+[[files]]
 file = "config/paxi/resourcepacks/computer-craft-recreated.pw.toml"
 hash = "f641c8e1d4973303c0cb8d8f0bf0150c250f5661f804c2b22bfff66b0b738413"
 metafile = true
@@ -41,6 +45,10 @@ hash = "52908e6b607acb0132818d29fd7c2fcaf02dbc8b743c509400db8f65f1e00eb1"
 [[files]]
 file = "config/vanillabackport-common.toml"
 hash = "4b2fe142b7c9133e6cb1f78971f4c86398445517881cb576b98c51987ee6a7c9"
+
+[[files]]
+file = "config/yosbr/config/jade/jade.json"
+hash = "545274d69c1e6649b04388e40b647b7c71d18d2980cabf2fffb16bd51fdc912a"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -180,6 +188,16 @@ metafile = true
 [[files]]
 file = "mods/drizzleproof.pw.toml"
 hash = "a7554c7a93efb88401a24ed81e90549c5e368429714a63b0c805b41ff9c670b7"
+metafile = true
+
+[[files]]
+file = "mods/dye-depot.pw.toml"
+hash = "072d2b8b002d663c4fc4505aad9583f40b612ad190a9205279b6cd60a3a7e4f0"
+metafile = true
+
+[[files]]
+file = "mods/dye-the-world.pw.toml"
+hash = "e7cb125b91b057b6ada2ea545712e0fc106de6e706ba993ff1b565bc68505d6b"
 metafile = true
 
 [[files]]
@@ -455,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/woodworks.pw.toml"
 hash = "8b00fcddedadf0b6f1144743d75d258a6729bbe2d8f74a2e624393442b0af52f"
+metafile = true
+
+[[files]]
+file = "mods/yosbr-neo.pw.toml"
+hash = "504a613b4bf2bb1b5e1229e766c7efb61c9d3c69ee17ceee33777139fd2889b3"
 metafile = true
 
 [[files]]

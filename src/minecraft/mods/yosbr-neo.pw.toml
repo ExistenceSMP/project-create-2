@@ -1,0 +1,13 @@
+name = "Your Options Shall Be Neoforged (YOSBR)"
+filename = "yosbr-neo-0.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Q1Lbl0G/versions/PsfpGPE3/yosbr-neo-0.1.2.1.jar"
+hash-format = "sha1"
+hash = "98944e3185a405503aeab35703e209dcd4d734d6"
+
+[update]
+[update.modrinth]
+mod-id = "1Q1Lbl0G"
+version = "PsfpGPE3"
