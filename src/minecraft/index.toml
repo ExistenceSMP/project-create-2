@@ -394,6 +394,11 @@ hash = "c0581a1023e11d7567ee035c63e3542f53207b806ca0721abdb841cf2313c7b0"
 metafile = true
 
 [[files]]
+file = "mods/the-block-box.pw.toml"
+hash = "193dcdf0cf8ca2345e45454eb5b74d6dc6e42187b0f17a8cae94ea26d730bd90"
+metafile = true
+
+[[files]]
 file = "mods/tolerable-creepers.pw.toml"
 hash = "21303f4dc3defce8347378f1f049140749a85254e601bd9bbba0a7214c7fa401"
 metafile = true
