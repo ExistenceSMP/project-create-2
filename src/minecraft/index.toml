@@ -31,6 +31,10 @@ hash = "9f44e87f2374527e1ace02d37d63d1fa16dfc629ec9f03fc04265ef5fa596b03"
 metafile = true
 
 [[files]]
+file = "config/reliable_advancements.json"
+hash = "357bea3b8f4c2b157273e8e5c0c691ff8d5fd0eb9c74f851438296d93d6f026b"
+
+[[files]]
 file = "config/vanillabackport-client.toml"
 hash = "52908e6b607acb0132818d29fd7c2fcaf02dbc8b743c509400db8f65f1e00eb1"
 
@@ -46,6 +50,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "4dd2c961ed6bc412a5486437487f3ea0f3bffe22a81a95187f921bf769ade4b3"
+metafile = true
+
+[[files]]
+file = "mods/apeeling.pw.toml"
+hash = "37736531e60f802eeb2b81be554f42183377f1c010cd21bc1ae0dfb37d9d7012"
 metafile = true
 
 [[files]]
@@ -71,6 +80,11 @@ metafile = true
 [[files]]
 file = "mods/boatload.pw.toml"
 hash = "ad45f67a1ee862ff5d0f0cb43630eac066eeaaca5905e0cf3c31b3ef429cf56d"
+metafile = true
+
+[[files]]
+file = "mods/bubble-boots.pw.toml"
+hash = "0a37bbbde550b946a63be6702b934ef46488e914c45cf80d92e6697862f81315"
 metafile = true
 
 [[files]]
@@ -161,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "a650184986ea833774af28bd94de05a37e035862ae6ccd107ed2367181749454"
+metafile = true
+
+[[files]]
+file = "mods/drizzleproof.pw.toml"
+hash = "a7554c7a93efb88401a24ed81e90549c5e368429714a63b0c805b41ff9c670b7"
 metafile = true
 
 [[files]]
@@ -309,8 +328,18 @@ hash = "38ea86ceac7f85f856e071a78e84a87deb8c9ab25820b1df8125024a83e22f48"
 metafile = true
 
 [[files]]
+file = "mods/onion-onion.pw.toml"
+hash = "2eefd2695f73378717ffb666ced2f58679fe18d31b9887611006dbeab2107f6f"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "916bc9c9945d072cbdec42553c3daef5b47ae113304bee2f2d81c0e5b2512d9c"
+metafile = true
+
+[[files]]
+file = "mods/peeping-angels.pw.toml"
+hash = "13174b2b9160489c1d97913a920c35ea3e22b898b6d80bdaea9053a518e55115"
 metafile = true
 
 [[files]]
@@ -379,6 +408,11 @@ hash = "3128db38c1d47f40f0b245d83f6bd103ed6f37388a45a5547aac46bbb2dc1501"
 metafile = true
 
 [[files]]
+file = "mods/sneaky-link.pw.toml"
+hash = "0a22730ec263dfddf74401f661b692fc59592e62fa4810a249b6c8c08f592302"
+metafile = true
+
+[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "6774fdb7ce95c064571d3f05e8a4a852a68e6c1a949c1ee03347978535a34eb5"
 metafile = true
@@ -416,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "7feb713a727dd960011addbd73867da3e5eccdcee3fac78c3cbb8f31d6db2b37"
+metafile = true
+
+[[files]]
+file = "mods/woodworks.pw.toml"
+hash = "8b00fcddedadf0b6f1144743d75d258a6729bbe2d8f74a2e624393442b0af52f"
 metafile = true
 
 [[files]]

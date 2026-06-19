@@ -1,0 +1,13 @@
+name = "A-peel-ing"
+filename = "apeeling-1.21.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3nu4j4KH/versions/rHrLf8gH/apeeling-1.21.1-3.0.1.jar"
+hash-format = "sha1"
+hash = "19ec96bb7343bda0add6a0fcf62edef27adda8e1"
+
+[update]
+[update.modrinth]
+mod-id = "3nu4j4KH"
+version = "rHrLf8gH"
