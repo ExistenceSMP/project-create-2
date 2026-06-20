@@ -10,7 +10,7 @@ hash = "1997efce242b055e6299c50c1eadf02245922d046de04090063ec5d46a9a2227"
 
 [[files]]
 file = "config/fieldguide-client.json"
-hash = "d2a372287e72858c76c81269b588ddb1806641f0493e5ad91ece96f17dcb5bdc"
+hash = "ec474c694a37f5416bdd99f971f8a85e18bcaf5eadbf3738234a76fd588f5126"
 
 [[files]]
 file = "config/paxi/resourcepacks/computer-craft-recreated.pw.toml"
