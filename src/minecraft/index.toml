@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/amendments-client.toml"
+hash = "eb64b91d2cfa78a25356211ff408c8f2c62a676293e43d99d41098c824d1a6df"
+
+[[files]]
+file = "config/amendments-common.toml"
+hash = "1997efce242b055e6299c50c1eadf02245922d046de04090063ec5d46a9a2227"
+
+[[files]]
 file = "config/fieldguide-client.json"
 hash = "d2a372287e72858c76c81269b588ddb1806641f0493e5ad91ece96f17dcb5bdc"
 
@@ -37,6 +45,14 @@ metafile = true
 [[files]]
 file = "config/reliable_advancements.json"
 hash = "357bea3b8f4c2b157273e8e5c0c691ff8d5fd0eb9c74f851438296d93d6f026b"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "14b3353d9ea19fafa270dd3eacc6db0742cb591e7cc3f5beee5ea49026388e91"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "cf99b996817016c48edb7cdf96aae24f7368ae81e5a5dae1c722e8ff0de0adad"
 
 [[files]]
 file = "config/vanillabackport-client.toml"
