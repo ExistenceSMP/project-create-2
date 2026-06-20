@@ -221,6 +221,11 @@ hash = "2d53b7007921f6174eb6d01f52aa91d8ff842add3a409828248ac91512889bcb"
 metafile = true
 
 [[files]]
+file = "mods/enderscape.pw.toml"
+hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "561cd518ae00406a44002b72f8e6ab81504e205e36d4c4b809b7c5e6bb44b5e9"
 metafile = true
@@ -456,6 +461,11 @@ hash = "21303f4dc3defce8347378f1f049140749a85254e601bd9bbba0a7214c7fa401"
 metafile = true
 
 [[files]]
+file = "mods/trimmed.pw.toml"
+hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "cf11a49909334b9bf25a9c1b85cdea42518e13d41415df1a59cefc67c9b30953"
 metafile = true
@@ -473,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/woodworks.pw.toml"
 hash = "8b00fcddedadf0b6f1144743d75d258a6729bbe2d8f74a2e624393442b0af52f"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
