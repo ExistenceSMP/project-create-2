@@ -14,7 +14,7 @@ hash = "ec474c694a37f5416bdd99f971f8a85e18bcaf5eadbf3738234a76fd588f5126"
 
 [[files]]
 file = "config/paxi/resourcepacks/computer-craft-recreated.pw.toml"
-hash = "f641c8e1d4973303c0cb8d8f0bf0150c250f5661f804c2b22bfff66b0b738413"
+hash = "80f3bf087de6cc56980a5cefed751f165989dd5b63dac4f682a9cc9408b20079"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ hash = "52908e6b607acb0132818d29fd7c2fcaf02dbc8b743c509400db8f65f1e00eb1"
 
 [[files]]
 file = "config/vanillabackport-common.toml"
-hash = "4b2fe142b7c9133e6cb1f78971f4c86398445517881cb576b98c51987ee6a7c9"
+hash = "f9f226d4702617feb2bf65d96c43e037462c86a9dfe495cd3caaa57021ecaac2"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
@@ -77,6 +77,11 @@ hash = "4dd2c961ed6bc412a5486437487f3ea0f3bffe22a81a95187f921bf769ade4b3"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "797e8982ca44072c49b85a386690e0c30666869331591a3d473460a71f0a629b"
+metafile = true
+
+[[files]]
 file = "mods/apeeling.pw.toml"
 hash = "37736531e60f802eeb2b81be554f42183377f1c010cd21bc1ae0dfb37d9d7012"
 metafile = true
@@ -84,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "dfee717d6ef4dd79f5479cd55b38f7abce67b96457b262293a8af83d6b978963"
+metafile = true
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "6a102a78200dff17336b87755d6eea1afe253f990fef60a872d99687466f9818"
 metafile = true
 
 [[files]]
@@ -114,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/caverns-and-chasms.pw.toml"
 hash = "9e6d5e9c803ad855e70590101aac9e781b87064cc3785a5fd72cb1d071c6bdff"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "2a20d1637489ea21cfe93569a908b60d52a0788b797d6160e41a4cdb0428efb1"
 metafile = true
 
 [[files]]
@@ -327,6 +342,11 @@ hash = "75e3d1ee1ada9bc1b5818cd81649713a9345ee93268b8a7869c069551039383a"
 metafile = true
 
 [[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "f0c8c673806c908a302abfa78b8303d18afeb635157e785233d3030c20027566"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "5c50beaad6fee2d41568ad704ec8f769dabdd7601ffdf2eae6652c77fea2b67f"
 metafile = true
@@ -343,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1fad35a0e3467cf3ba373d482b900f8b6391f1656e54fdbc7c3ae25da23dc577"
+hash = "35f3978fde937067b17fb791c090641ab7effc363404b95940bc0610d41f6701"
 metafile = true
 
 [[files]]
@@ -358,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "ac94ba6705ae707ae7d336b519b8ad6327f4ca023d12599571efffe1e0475a92"
+hash = "adb5f8340b9eb5c43d7a85c0b03be1bac3fb1939c81059cce4ed108db4ddd2a8"
 metafile = true
 
 [[files]]
@@ -387,13 +407,18 @@ hash = "5b6f3f644c12c262a7a55e19313bbdd9ef552be27a7d68c0ac3cf0f252500947"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "8bf0bc2e8a6e334b0615f3799b86b86668dd3a2f5cd38fb76ccc18601e12cb65"
+metafile = true
+
+[[files]]
 file = "mods/portfolio.pw.toml"
 hash = "e49b54033da3ac1ea37185139c099bbf23379dc6eb296b524a8a51061cc6d9fd"
 metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "bc2be310f9652ff2535fecfba3224437d3f68d09abcd4cc0177831d85d2f0280"
+hash = "87d207bfd18ecb3a3bdc1d53a0209b9729f2443b5786bbdf2b7294fda6d40903"
 metafile = true
 
 [[files]]
@@ -403,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-advancements.pw.toml"
-hash = "5bf351d8410409930ed3fc8455d4e83b72ff2213c592cd79fa220ae5b858feb3"
+hash = "b1a15abe3f35a93c2b8ca412861ee60c2a1e4a9a375976fe74c1e3bcc56bac05"
 metafile = true
 
 [[files]]
@@ -423,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "5bfcfa4e8222c96ff9b93a82983c151eae2f822eb5cbcfc030c2af3754526c4b"
+hash = "e22ec10ca15f7d0cb9cc8eae0c70577d4273124016ff17c306d1fb9bfc4c5ff8"
 metafile = true
 
 [[files]]
@@ -463,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1698806f61f20be2a046d1b10dae35a6e045ae32d82b04e988283ecf62099320"
+hash = "ba2383e54d9ed12175f94f00f598b5749acca284dd216ef40f1bb6a6d8f96c99"
 metafile = true
 
 [[files]]
@@ -492,8 +517,13 @@ hash = "d371e5843a7462e74fe03c93b505c767c2be45e5017c1d5400e80159d6636614"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "4d2ea3e3604f90836555b32e16fef982843bcadcf8c5b9ee569c23c03172cf7f"
+metafile = true
+
+[[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "7feb713a727dd960011addbd73867da3e5eccdcee3fac78c3cbb8f31d6db2b37"
+hash = "a8360dcd2f871f81f3596f0da20092acca735990d4efd41b3c82b8cc6ef83489"
 metafile = true
 
 [[files]]
