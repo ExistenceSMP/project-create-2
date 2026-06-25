@@ -1,0 +1,13 @@
+name = "High Noon"
+filename = "high_noon-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lseLi1yB/versions/Beys1xQ0/high_noon-1.21.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "9e6cc605e15c7d6c7c9a142ba8d057330329618f"
+
+[update]
+[update.modrinth]
+mod-id = "lseLi1yB"
+version = "Beys1xQ0"

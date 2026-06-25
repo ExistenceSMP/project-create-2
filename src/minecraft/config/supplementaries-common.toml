@@ -187,7 +187,7 @@
 		populate_creative_tab = true
 
 	[functional.urn]
-		enabled = false
+		enabled = true
 		#Chance for an urn to spawn a critter from the urn_spawn tag
 		# Default: 0.01
 		# Range: 0.0 ~ 1.0
@@ -555,7 +555,7 @@
 		bound_distance = 64
 
 	[tools.bomb]
-		enabled = false
+		enabled = true
 		#Bomb explosion radius (damage depends on this)
 		# Default: 2.0
 		# Range: 0.1 ~ 10.0

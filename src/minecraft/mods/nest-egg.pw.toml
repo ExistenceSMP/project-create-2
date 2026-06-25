@@ -1,0 +1,13 @@
+name = "Nest Egg"
+filename = "nest_egg-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uxgTrwJT/versions/6EVW3eIm/nest_egg-1.21.1-2.0.1.jar"
+hash-format = "sha1"
+hash = "a412471dacd8e2da97a0e1dbc990f3e69d699f75"
+
+[update]
+[update.modrinth]
+mod-id = "uxgTrwJT"
+version = "6EVW3eIm"
