@@ -352,11 +352,6 @@ hash = "c6caea8e7f95ff3b25a3aa76fc5be98f189411455e12d07ce0b356ea94e9d030"
 metafile = true
 
 [[files]]
-file = "mods/high-noon.pw.toml"
-hash = "a90aa43b3ac05b9a8d403b31998d64852bd6d5236dc4f169457984ca733db809"
-metafile = true
-
-[[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "dba25bc091f6fa6e14ad9176af5c825970ea29dc225a6b406105e798ce89efeb"
 metafile = true
