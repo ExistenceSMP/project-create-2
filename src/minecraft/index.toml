@@ -21,6 +21,10 @@ file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp.zip"
 hash = "f6427a2ce325bdf30a42fc340bf28b807b2c01d3dd91d3fa25de8d8c01defa9d"
 
 [[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping.zip"
+hash = "d100a5b63aad45d239628c62c562cf9585ef0e3a3c2c52adcfd3d6cb23cb644c"
+
+[[files]]
 file = "config/paxi/resourcepacks/computer-craft-recreated.pw.toml"
 hash = "80f3bf087de6cc56980a5cefed751f165989dd5b63dac4f682a9cc9408b20079"
 metafile = true
