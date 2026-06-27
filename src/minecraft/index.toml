@@ -137,9 +137,8 @@ hash = "77224fe52449b2cff61dd5f3ae98a19a2f56f9452ad570f1908cb38b7dc615f6"
 metafile = true
 
 [[files]]
-file = "mods/caverns-and-chasms.pw.toml"
-hash = "9e6d5e9c803ad855e70590101aac9e781b87064cc3785a5fd72cb1d071c6bdff"
-metafile = true
+file = "mods/caverns_and_chasms-1.21.1-3.0.0.jar"
+hash = "7b251f005b0f56b69974ee55688b1a4b5ba4270c6c4a2df6c73149367f301bb4"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -613,4 +612,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "aca1f56c8e8235dfb1a1d502f88c169cfcd0a5b6280d30c65aedf07a77a15724"
+hash = "d71a4cc9b53272f424f04f6e0d0c4c2d0e508a4a88ec1ed765a9c1532c238340"
