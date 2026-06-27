@@ -1,0 +1,18 @@
+[
+	{
+		"action": "replace_input",
+		"id": "simulated:rope_coupling",
+		"target": "minecraft:string",
+		"replacement": "#c:ropes"
+	},
+	{
+		"action": "replace_input",
+		"target": "supplementaries:rope",
+		"replacement": "#c:ropes"
+	},
+	{
+		"action": "replace_input",
+		"target": "farmersdelight:rope",
+		"replacement": "#c:ropes"
+	}
+]

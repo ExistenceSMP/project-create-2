@@ -1,0 +1,13 @@
+name = "MiniMOTD Reforged"
+filename = "minimotd-reforged-mc1.20.5+1.21.x-2.0.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i5QMbkrb/versions/f9vFKizY/minimotd-reforged-mc1.20.5%2B1.21.x-2.0.13.jar"
+hash-format = "sha512"
+hash = "0e7442b98b927203d91ddb088dd8ab99b27ef2061907f5a613f108f6b5f339e4d5ba1bc333d21c6bbfda729cba1f4dd2ea5b54ba737c2d6b920ff6fe39ce3d8e"
+
+[update]
+[update.modrinth]
+mod-id = "i5QMbkrb"
+version = "f9vFKizY"

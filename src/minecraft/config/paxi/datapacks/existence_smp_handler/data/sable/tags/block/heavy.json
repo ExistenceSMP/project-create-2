@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values": [
+		"caverns_and_chasms:iron_bricks",
+		"caverns_and_chasms:chiseled_iron_bricks",
+		"caverns_and_chasms:gold_bricks",
+		"caverns_and_chasms:chiseled_gold_bricks",
+		"blockbox:chiseled_gold",
+		"blockbox:golden_tiles",
+		"blockbox:golden_bricks",
+		"blockbox:golden_pillar",
+		"blockbox:iron_plate",
+		"blockbox:iron_tread_plate",
+		"blockbox:corrugated_iron_plate",
+		"blockbox:iron_plate_pillar",
+		"blockbox:polished_obsidian"
+	]
+}

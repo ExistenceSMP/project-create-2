@@ -1,0 +1,12 @@
+[
+	{
+		"action": "replace_output",
+		"output": "create:bar_of_chocolate",
+		"replacement": "neapolitan:chocolate_bar"
+	},
+	{
+		"action": "replace_input",
+		"target": "create:bar_of_chocolate",
+		"replacement": "neapolitan:chocolate_bar"
+	}
+]

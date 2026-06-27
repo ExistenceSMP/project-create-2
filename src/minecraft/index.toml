@@ -13,8 +13,560 @@ file = "config/fieldguide-client.json"
 hash = "ec474c694a37f5416bdd99f971f8a85e18bcaf5eadbf3738234a76fd588f5126"
 
 [[files]]
-file = "config/paxi/datapacks/existence_smp_handler.zip"
-hash = "ac3876d9ad79816c1fd70e16c00ee6608aa55eb0b1a2a24f1feb2e2d57f573b7"
+file = "config/paxi/datapacks/existence_smp_handler/data/create/recipe/crushing/tuff.json"
+hash = "77a608559db0eabbb5a3da1320dda9f8e9137c04e033db98edd7208905e1ab97"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/create/recipe/crushing/tuff_recycling.json"
+hash = "daf4b2d298b9b738c5ca2c7c4c0632d23efbd8bf25d14762885f718cbf463f96"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/brush/brush_bookshelves.json"
+hash = "e266a94171720194cb105e8160ad13dc1057bfa55853dd6352bab8def7ea392d"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/brush/brush_dried_ghast.json"
+hash = "40667d5bf2de8565132e3c122600450d22c2f77a1d0e9913512beddc862f0173"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/brush/brush_eggs.json"
+hash = "815590a5808dbffcd3e38c039faf2db5c9d59288bfde6aefb433d1884d760073"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/brush/brush_jukebox.json"
+hash = "6181607df717a05b84d196436548735d154f48962e6b6500975251ae2dd6e274"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/brush/brush_sand_or_gravel.json"
+hash = "9cdd722cc26906639d421d5aeaf891b7f4d35c35625cd3c18f65cbb06b1f53a6"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/brush/brush_shulker.json"
+hash = "7d7ce495257d455004f8e05ef09e707ddc02fd97834264175889d969ab3edf5f"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/crafting/bundle_of_joy.json"
+hash = "59114070dd6357e9e3b017772e37c74141c4f1af25a626cd31eb2f9aeae4560f"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/crafting/dried_ghast.json"
+hash = "7c7fb5b0f24d0bfd7d74fdfcb2c6da25c6e2f6eabcfbb1ab620f1b7fe0fcfba0"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/crafting/music_disc_5.json"
+hash = "be1e5f0044b4fd54ef9b50f600b209a3c2afd0d2b4b918e771550cfb359fb8cf"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/crafting/nether_wart.json"
+hash = "c4ba9395dd906abcd6be0f32bea05a862baf2b6421db434772758eadbaae23cd"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/crafting/serious_horsemanship.json"
+hash = "653b54fa5ffae4e02488f9917a1418d64e2506f9b8f0f1941c502c8c2aca9560"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/crafting/the_lie.json"
+hash = "445eef914b97ebf06380f8122285633bfcbb2043ec81b6f5a88833543f6c8b1c"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/deep_dark/ancient_city.json"
+hash = "4bb16fd3e8ba23062665d6895ecf3fb63b81d002bab3726f008637c818315552"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/deep_dark/kill_warden.json"
+hash = "708da3776f6ff51d9b145872091669aa82927c3f676c29d5f7e3396f4fc96ff8"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/deep_dark/summon_warden.json"
+hash = "87b5a8550d6c3a04f9919004e897bae91f255d8ceedfd9cf94784bf73317bf06"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/deep_dark/summon_warden_again.json"
+hash = "1f5a110086bd8f1a8c10f792c9859eb62558bcfd801e64ec917cd01d5ccf57b6"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/events/events.json"
+hash = "2de2ba83815963ebf354556677cd97fe29b8c84a6c6d0d820edee8b3d83ea0ea"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/functional/nether_wart.json"
+hash = "d9398fcdd4d8e38ba76329e304cb6047a56ec633ad4f482edca6049b8d9e6627"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/functional/root.json"
+hash = "a5ef05d5bc6a10c8db8cae86c8ee28aa4b33467bbd54efa583f14d9d6533a16b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/functional/spyglass_player.json"
+hash = "60ee9a45a856f1759fa6425c4c76bde30ad8aa98d7980590ad73feba9c22990f"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/happy_ghast/fly_in_the_end.json"
+hash = "edc11b79e203fe184f4018e8dfef55935959e52ee996edb49b6fba244e2287f1"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/happy_ghast/fly_in_the_nether.json"
+hash = "96e76a9d88b66da18c02755bcc4900108b3a4dea4e921f6ed567cefc39ba42b3"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/happy_ghast/ride_happy_ghast.json"
+hash = "f59e51a4ca94303e623cecffc298f03b797e1e365cad116590d0247ae15ed406"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/hud/weast.json"
+hash = "021ae882967e931934de6f3a5517b6eb34d1d794b9b5e9dc3cdad8a3dca30ae9"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/hud/weet-bix.json"
+hash = "98ea44205a51b211086a521fd38e45d0d4bc17fe8ffe1c50ae9da3fa4c05d639"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/items/chainmail_armor.json"
+hash = "a878aa99a6b5b2d74b6dc93322a13222d5d80c8bab446ce4bb0c549a0eda3249"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/items/chainmail_armor_dripstone.json"
+hash = "c3612e78df83254e6258779332d6a83c205050bcba423675cf8be364ff6764b4"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/items/golden_armor.json"
+hash = "5584cc6309016b562f96f05d851bd822e092c0c14f3d2f62c44d1b87eaf5e80d"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/items/golden_armor_the_nether.json"
+hash = "785bcfc1f8d5f293243e310598de6adc4a67b42d47f44b5621d38b3e00ac2232"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/items/kill_chicken_jockey.json"
+hash = "28da4956be33d717afdfc18a548fcdd088469e66664854bb85b457213f692449"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/items/play_goat_horns.json"
+hash = "313da67060ecb50994488d7b26d74e9af33ee626fdef94a1166570c363a561bd"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/items/play_music_discs.json"
+hash = "5003a92cfcc30cf6ddc9cea9cc67ef167e014a870ecd79ebbb61494b75eee998"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/locations/center_of_the_world.json"
+hash = "6daac514b4c1be66625c51cd963d3f30788c9b6f5be94269bb3aec1e2cc9c098"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/locations/globe_trotter.json"
+hash = "a32c58e0444746d26203e5c12e97df6b5b9e09658eb1383e6982b78f5a07274b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/misc/transfer.json"
+hash = "1478973c9cf2863f6d6658da88a6d9200688d7ba9e12816f0fe0912c4c12cd12"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/founder.json"
+hash = "03667722a23cce0ba89b31725feb3534f1104c05c57dba76d24d5b20251d47c4"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/legacy.json"
+hash = "812588f3e97109921f53d392f68248388829406f4c783e50aa18802558f28b3a"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/new_dawn.json"
+hash = "cb57baddba9e0320b2e6defc4220eb2e662a70a63509133c2ebf9da695c2b753"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/patron.json"
+hash = "0aaf58e7775e7c06682057837fde7903993764c40b1a5027c876ded35af3c6dc"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/spectate.json"
+hash = "f835ec492755e701626da7c9acbab6e7e8eec8ee9e2aba3660f21aba2ce2ca5b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/world_of_color.json"
+hash = "cb336852c41dcaffe9f1eab71992c8aa7d74d5ab3e52fcdb68a9b37f9bdd8db3"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/root.json"
+hash = "ec84717648e047a016312fd6c623581ef9be6f3580de3dd738de1221afc08a5b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/root_events_roles.json"
+hash = "4178c4ca6402b8a8b92e5b0c49990d782385a3a6f286473bde666077cd0efcd0"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/creaking.json"
+hash = "bb861764ceb17ac16e6187e7c3106d8f10ab4788e2ae709fc0febb2e5bda3316"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/enderman.json"
+hash = "0ec0b5209cd0e890924ea2f225266700ec924db079f6259d7d01c32b79dfe9fd"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/glow_squid.json"
+hash = "96e810b55d729d2a8db8aabb383968916c4385247be53eb618a0f6b0b8b0201f"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/goober.json"
+hash = "eae71712586edf14bdd3fd9d050e07b970fbc3d139d4d79fb9b516908601ca5b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/happy_ghast.json"
+hash = "038556251e209196af847515519cec22e669fb04f5346d3ff37b42b97b85c00d"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/llamas_with_hats.json"
+hash = "1ab0f59da11597551847488604358ab11d28be6b6b9406f9e81a002a0e0b2a30"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/painting.json"
+hash = "1cca0f8cab82f13d88c2beb112f5af758d3ec0260884d0e72054538c79c8a3c6"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/parrots.json"
+hash = "69d8a22a49cf8de6fa2d108d5703df1018bd6566dffefae6167073a85aa26f43"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/parrots_itspurplejay.json"
+hash = "10b0b9368c2bbf78331c19e8da73481655f997122d6780fc47d54ffc78a32697"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/player.json"
+hash = "d59ae7aed9a2c10626a4f9fde1f0bfcfaf38b489bd12277505cd8d51582fb3ea"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/player_at_player.json"
+hash = "daa22d02d37c68e9a1235434e24007a4856c69de452f2be3b1b6ed7bed370cc7"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/player_night.json"
+hash = "13406143b19be09f3a173c09d452619823c275c30c474a08414ed2cafc294ce8"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/warden.json"
+hash = "348870c31ece32d0f0f3369b5cd579ef1e5cb08f528873c3aa08963740e52b80"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/deaths/catastrophic.json"
+hash = "b89c24204fdd1f8b1f48fa26056ed0b3120474353d898870cf3ba97847d67ed6"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/deaths/game_over.json"
+hash = "1cdaa70e033eea11ad46686e6822f2aecec8f5f35dd20537df645e0d90a0a224"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/deaths/meet_ones_maker.json"
+hash = "57609e4d18caf4427ca0eabd23f143d6504f2a1098b35f37a9c9612adc9b3edb"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/deaths/six_feet_under.json"
+hash = "cb0db18dc1af98e0a0873520c544477a22b1705840d5db9e30ba153bd4a188d0"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/elytra/domestic_flyer.json"
+hash = "420e9609fb6595a986439cee43c70435ed16f032863faebe533b5473a99df4e4"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/elytra/frequent_flyer_club.json"
+hash = "6baf8fed29fe7e7814813c5e229b85732609f4e8cdb10647364aa3fca6c24867"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/elytra/intercontinental.json"
+hash = "ccee109bec88a822d4b5259a36589d82843b0f80383ae14d9215622a1fb75b51"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/mathematical.json"
+hash = "304f0ce911fcc9470a5f02acf6ab4ae65cc035f0dbb20ad5ed3f8a948114b2c5"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/playtime/time_concerningly_well_spent.json"
+hash = "1b36f70842fe2f948f02a36927c334c928b9cd0327a2534a03364500883fb316"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/playtime/time_extremely_well_spent.json"
+hash = "ccd83ae7bc759c4151a1c8579529f2085375f7c978b8863b5199b170780311d3"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/playtime/time_very_well_spent.json"
+hash = "622ff470918978fbb4ec13b6b6e248be31d174a1558511586fd68cd509fd4714"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/stats/playtime/time_well_spent.json"
+hash = "63a7b7245d5d5cca275e078c07de9f8d0e6c4c20eb14259a8b95d236ea2e4727"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/advancement_check.mcfunction"
+hash = "db86eafa38b524b777f259efc6ae888ada6deb858a8dad60b3d32c1404e40034"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/deaths/100.mcfunction"
+hash = "b8afce27cdcc4446e4734d63cb55f5fd4c7f2c7768244c34b745cede8e039b5b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/deaths/400.mcfunction"
+hash = "c447c338ffd10a9a306b5333205f29985498d388193ec8798db0ca524da89850"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/deaths/50.mcfunction"
+hash = "dd1e174e412bdb190288d55e1fd16b47b4d1de568dc2d47ce3f8a20212824778"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/deep_dark/warden.mcfunction"
+hash = "f06a6ff05c2fad61214a3467eb2569676c1eab5f2fd098474e330dc5b317a0a9"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/elytra/1000.mcfunction"
+hash = "d8e3e37ef663e2b385d3d46a69512845dcccd6977c2925978f640317ac88b258"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/elytra/3000.mcfunction"
+hash = "be9b05fb3dfee5d9393cc8598de10af5a48452ec55153f3f926d60d78d6af6df"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/elytra/500.mcfunction"
+hash = "dc1b8c835c8a570acd5e5a97a6cb1a22077e329c01e20b4804b3dfbc4232a956"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/playtime/100.mcfunction"
+hash = "b7e2b354ab96013be57791a209a566cba6b27a083b813b117dcc673f1667bd42"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/playtime/1000.mcfunction"
+hash = "5888e22237e911b4416c10b651b6bc8b82dd5d791edca0b7c4381d654f8c97df"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/playtime/200.mcfunction"
+hash = "6d3c29e1558a8fa767242693add9ee2202902a274c5822fa2ff1d270b1e3ba61"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/playtime/500.mcfunction"
+hash = "f61cd6823236fe22350fda3903b57b4d6d78a306c1d146b89244687ac03078ea"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/spyglass_player.mcfunction"
+hash = "00aa489013887576ac6bfd88ce32d105252ad17e16c95a48e633a5670d84b189"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/clock/clock.mcfunction"
+hash = "4b30488b2f48ae4ea98daa39bbd3a49b9ef36763aff86c810bdb573396bd64fb"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/clock/entity_count.mcfunction"
+hash = "dd6da14bf6f23e3fc385ccdb8c0ac6198e58486542c69c0cd84f71c984d48673"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/clock/hud.mcfunction"
+hash = "6c9ee8c8041c05d5e5780a0c6078a478b8c4c3086344a9ecf71ed0ef2e056c7c"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/clock/store_pos.mcfunction"
+hash = "f0554a4f49afc050919d879be93951de613daba8202758a2b2beee23ac2bccda"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/clock/uptime.mcfunction"
+hash = "5f0b45995bc2d29f86c46c686d6f7d39a11e4eaa6b498c3d751e62b0f4b2b3af"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/core.mcfunction"
+hash = "528baf13c02348f85411a08519f61890ecbf27638e7aac1ccd6561c75655330b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/deep_dark/warden.mcfunction"
+hash = "080b9e87cd90d0367031f4e83bda2b443d2c2b1d63c20c842a4dfcf418576209"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/join.mcfunction"
+hash = "f5604d5bd6b227481b62f400e7b6e7f180040b37f699d2dc62cba6f1f8706d69"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/join_first.mcfunction"
+hash = "f4e91d5c89b57bf7b7a7bfbd3dc39e45047714fa056abe468520f37aa19ca23d"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/load.mcfunction"
+hash = "82e42cc5d7d2342ce92d194901518ed80fd7060e8d51732a626c36a06be8f871"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/patron_color_update.mcfunction"
+hash = "dbbb746f9127c4852d7c93b52c49f232cb92d80bb065e7cdc4d75ca23260b327"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/run.mcfunction"
+hash = "b584f15c262d57fa22eddf662feadbf3ee842c0fb1992545b1609f187a9966d7"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/scoreboards.mcfunction"
+hash = "389904436398fa8d36a06aed641131b1d13ebcc84deb016a811f9867000566ac"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/teams/clean.mcfunction"
+hash = "959abf70f93fff9d4be97e81b54f810f774c79a04b4b2a7962c0406913cf44ae"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/teams/create.mcfunction"
+hash = "5fd3d1ace558799f665cd64c131af92db4462cca31c7cb335e33d77f07f5a61e"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/teams/load.mcfunction"
+hash = "a204c140355a0938211115cc9cffc0927fe8ecb7d11c529182d17ef6a174e26b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/afk_total.mcfunction"
+hash = "3142ccc057a5e468127a4e802e5b6d3d0e025d60aa7ae78e8da62eb86c4fc9ab"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/boat.mcfunction"
+hash = "bcc5aea7c0dfca8a0e0195a9af4c8754f6c21ebc43f8ea3ee4d0ad22291c3337"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/climb.mcfunction"
+hash = "74907476a40884a17c53003422fe25d391eb8509d91b1ee72c4fdaa6a78555a7"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/crouch.mcfunction"
+hash = "a780ca031ebd3612e68c4d1d6c184eaace4a9c59468c2c4c5ec8ba139c4a45c3"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/deaths.mcfunction"
+hash = "80b464b2634e0462cd41dadd9537e5d54f0e2f68274c5d97594bc63465804dcf"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/dried_ghast.mcfunction"
+hash = "b747ed2442fd328a354bc8038c2465619c16ed3532dbea3886941189ac61ca9e"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/elytra.mcfunction"
+hash = "25cd4ef92fdb1c0083aaf98ade2699380dd78cde67f7f61b9b2c311341f77751"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/horse.mcfunction"
+hash = "15c38480cd5ecdf0999dad9c9b9178963348bcb19b35e64ba3422d49342a678f"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/hud.mcfunction"
+hash = "492ebb4e1609eb4b12ef74b511223bea6e01830232f47da0b2e74e94cca97bb2"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/map.mcfunction"
+hash = "d44b5cc3c3ac30da31250417fd09a71e57b757b96f214b986f52f941f5919f30"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/minecart.mcfunction"
+hash = "a2528126ffb169abc4d8f531511bd00d11969c323d08c320be4df9cbd63e136d"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/patron_color.mcfunction"
+hash = "0d1e95b4a4baa6d1c78fab01d527f246022fda9b03b550958b21beb98bc3d41e"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/pig.mcfunction"
+hash = "6ea5976ac14fd595e21371f79bb6c2653df1cde2f836dbbca45f39306344adcb"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/playtime.mcfunction"
+hash = "83ded985a08e5156ab05f65b23578821ac616d7a0f4ea340a7ccf3940695f148"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/scoreboard_clear.mcfunction"
+hash = "3b7b7ef91f8ee978ccbc1dff17bc19ca042b2c1850067a41f931e6a94e5ab064"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/sleep_total.mcfunction"
+hash = "9095a2490485488725c446ee1c00acffcf893821381738c0f09584732f03adc1"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/sprint.mcfunction"
+hash = "a404ed6f56aa950434bd60075379bd06929c774c811f10750034e30368df0b20"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/strider.mcfunction"
+hash = "b656260826ccd923e7938ef86850154223e4f34bc1d11e98b2bf54bf9c1a6a52"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/swim.mcfunction"
+hash = "9f1a0377b36b4be91f1f0c0071a1ee2f8e6d71ee2ca653a7c7772ab0593b9c23"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/transfer.mcfunction"
+hash = "228dd66a3f365f1ca10d86381ee00952bdfaa6e460230f8fbc66577f1a30c3a5"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/uptime.mcfunction"
+hash = "9df0788660ac7d5639f0170fa9ce366173249697e28e8670fdbaf59058a86326"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/walk.mcfunction"
+hash = "6b0674dac4d579f8f87583495825ecb90f69ffd52f12bb8bb7aaee1a48ed085e"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/wardens_killed.mcfunction"
+hash = "82009fa1484b5617058b7e1fbf3dcc06f26f03ddd9a9fd5c62dfd770136acbd6"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/wardens_summoned.mcfunction"
+hash = "b90dbed83432c98fed86bbe34adeaad043752a6b901c0bae5b82f1e0d08a2e50"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/void_cat.mcfunction"
+hash = "47c41897f6d5ffbe06493609e6bcda5d14e92b9124d06461679365d1cf10c6bc"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/recipe/azalea_cabinet.json"
+hash = "fd361d1f0a2db01659f8b86e768d8b81838f052b5912c00c9f153d55a8f4e50b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/recipe/nether_wart.json"
+hash = "4271161c554e17313132d8a11a7a765d912450eab2b8e3a678bc8f094c6367c0"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/recipe/netherrack_from_mixing.json"
+hash = "d3e4874d18dcc7dc0a37e3270c288debfdb3d63c9d9cdb2402482f0490525a3e"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/minecraft/loot_table/chests/jungle_temple_dispenser.json"
+hash = "01ccf96b30ef253c48fdadc080a3e01ecfe8028721187e52fa834cac35ab3bd1"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/minecraft/tags/function/load.json"
+hash = "777641754d0c5e1961a51e5194aff44b7dbd07296b65ac36d510ac64b8cf4a73"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/minecraft/tags/function/tick.json"
+hash = "4a3ef5b9363765de5b19e0a815336af1a6f2391c58a69880810c32c1123f85cb"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/minecraft/tags/item/happy_ghast_tempt_items.json"
+hash = "36751a41bac7e734af03d2880e167a6055e5f4f1e8bc6bab61e96eaf1bcdcc18"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/minecraft/tags/painting_variant/placeable.json"
+hash = "934568593bb04cdcab3b0ae3816742c3542057998830c93de7c45a7253d8f12b"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/sable/tags/block/end_stones.json"
+hash = "498a8882e798726b26cef119442ebf6197b69ed5dac277f361d3750994aef1d3"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/sable/tags/block/frictive.json"
+hash = "225e86f4a9509d105ab9e08228d572900101615aa1047677e4f9409d51da3af1"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/sable/tags/block/heavy.json"
+hash = "114983dc2b185b9ec3f581421c45453feb7535a137f62eb2579fe0abf044c041"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/sable/tags/block/super_heavy.json"
+hash = "85d58d3bfde6f01b45899c60696cefeed961be35706605551d7ef20f68c69c66"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/sable/tags/block/super_light.json"
+hash = "c42978698f22418edec5b4ad19cb3f90abaeae108b98e938fd5e6c681a5499c1"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/pack.mcmeta"
+hash = "04392ca83f5bc9f24c2d9f42ae8f862e67ff801f57b0c6d15d9b34585854c02a"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/pack.png"
+hash = "1dc555fc56b8ad08282a5ba6aa37b8b7d96abfdc75b35f4f817c0925d4c08bb5"
 
 [[files]]
 file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp.zip"
@@ -59,12 +611,44 @@ file = "config/reliable_advancements.json"
 hash = "357bea3b8f4c2b157273e8e5c0c691ff8d5fd0eb9c74f851438296d93d6f026b"
 
 [[files]]
+file = "config/reliable_recipes/amethyst_mosaic.json"
+hash = "747537ba51c2cbecabaad57cdb9befd73db71a95ca91aae19cca53106b70cbcd"
+
+[[files]]
+file = "config/reliable_recipes/chocolate.json"
+hash = "96f78d71ac06bf589f84fd1b332f143325518444b2a90ab5d841251910a8b4f3"
+
+[[files]]
+file = "config/reliable_recipes/copper_nugget.json"
+hash = "24aeb073a36bd40da37b0cf552e9890f060d2048a161b4f5d34f16b6ce13a850"
+
+[[files]]
+file = "config/reliable_recipes/lapis_lazuli_mosaic.json"
+hash = "f0398c522e9696e5be133198f22a1a970d1b0e12c3c37a1144ec20b8166e9798"
+
+[[files]]
+file = "config/reliable_recipes/rope.json"
+hash = "314b83f86bc5fe2a41040eae5fa2b7a7f4b1f8c64c497df918250dea49da06c4"
+
+[[files]]
+file = "config/reliable_recipes/sawing.json"
+hash = "0d863762b6f0b9de5b8110b3af403f81206702b123da99ca0d9781ee3ff75f5c"
+
+[[files]]
+file = "config/reliable_remover/misc.json"
+hash = "f02eccddbfb39a2103a81f97c3a78ee1ba742e439e0205ffa27be7cdfb4a9136"
+
+[[files]]
+file = "config/reliable_replacer/swapper.json"
+hash = "a2b7163c8a51bfe3147733923c0e0c8017c1bad9d44903ebebbd1d847de8bb14"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "14b3353d9ea19fafa270dd3eacc6db0742cb591e7cc3f5beee5ea49026388e91"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "bc64418ddc401ef947030cd540f72e21a9b708bb62d0b0693af88d5b05ae518c"
+hash = "190b3958fec3aaa0949077ada4acfa00bbc86cb15e6c4dfbc3ec7afc470041ca"
 
 [[files]]
 file = "config/vanillabackport-client.toml"
@@ -85,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "3e8a7cedc383884b27fb258c2deb156c919d16d75f6e4fbc4678a1e996b4bb5a"
+hash = "5c3b2fcb9762b53e2e18fe090180a2062bb5cbf65fa8a774d44b55af60705ebe"
 metafile = true
 
 [[files]]
@@ -136,6 +720,11 @@ metafile = true
 [[files]]
 file = "mods/boatload.pw.toml"
 hash = "ad45f67a1ee862ff5d0f0cb43630eac066eeaaca5905e0cf3c31b3ef429cf56d"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
@@ -195,6 +784,16 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "74449ecd91aebba8bf19e6ad1bfe81782219e6a77344ec6a8156e966886f0b38"
+metafile = true
+
+[[files]]
+file = "mods/cookielicious.pw.toml"
+hash = "06730a80047cbbb82d22c1c23086b584d19b55ba3fd42d60fbc2c35ec3a182e5"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "68a6089104825858beb345ab44c435fff997cf5f1560b39e215574b3e1ae5c2c"
 metafile = true
 
 [[files]]
@@ -294,7 +893,7 @@ metafile = true
 
 [[files]]
 file = "mods/environmental.pw.toml"
-hash = "69ac3b20f98ce5686d3830c9b3e80d5f9e97a71b3d2288dd7635476b8bc10709"
+hash = "5b64fa213a8fc7175490682b51c961528142092104b105e2021ceff648152936"
 metafile = true
 
 [[files]]
@@ -344,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/field-guide.pw.toml"
-hash = "d609c5bd55347b8fec14663f45c8d460e7c5234ebb05f51822d5343180e70f76"
+hash = "a790089cefa682476154e6dcabb91ed05ea384522c5f97e9b3a3ed483b1abf28"
 metafile = true
 
 [[files]]
@@ -415,6 +1014,11 @@ metafile = true
 [[files]]
 file = "mods/mini-music-tweaks.pw.toml"
 hash = "45d94219c81e89c89a7ef7ff2fe5c5808cba61ac8fccc99f5cb3d799fc167e3a"
+metafile = true
+
+[[files]]
+file = "mods/minimotd-reforged.pw.toml"
+hash = "ad878dda812a403df6a4ccada7984050b2625a0baa52734d84c49827b3ad3687"
 metafile = true
 
 [[files]]
@@ -545,6 +1149,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cce6bdeb94f40f2e40f869d47a18207b2399b46774fd4a1b4d04290047af8444"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "22a65829892382f1f4a8cea2c788fcedabf231c86b0852f9cbe33c65436a0d53"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "2c6a4c59ce4b99a35b28d97c3a8137ec74728d1671ec92f73d58a1e7c3f37da9"
 metafile = true
 
 [[files]]

@@ -1,0 +1,12 @@
+[
+	{
+		"action": "replace_input",
+		"target": "caverns_and_chasms:copper_nugget",
+		"replacement": "create:copper_nugget"
+	},
+	{
+		"action": "replace_output",
+		"output": "caverns_and_chasms:copper_nugget",
+		"replacement": "create:copper_nugget"
+	}
+]

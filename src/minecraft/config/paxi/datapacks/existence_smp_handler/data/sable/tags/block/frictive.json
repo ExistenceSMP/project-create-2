@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"caverns_and_chasms:soul_silver_ore",
+		"blockbox:iron_tread_plate",
+		"blockbox:iron_tread_plate_stairs",
+		"blockbox:iron_tread_plate_slab",
+		"supplementaries:bamboo_spikes"
+	]
+}

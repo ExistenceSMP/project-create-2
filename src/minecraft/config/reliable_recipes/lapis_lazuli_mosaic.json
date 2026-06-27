@@ -1,0 +1,8 @@
+[
+	{
+		"action": "replace_input",
+		"output": "blockbox:lapis_lazuli_mosaic",
+		"target": "blockbox:lapis_lazuli_bricks",
+		"replacement": "caverns_and_chasms:lapis_bricks"
+	}
+]

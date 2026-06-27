@@ -1,0 +1,50 @@
+[
+	{
+		"action": "remove",
+		"items": [
+			"copycats:copycat_block",
+			"copycats:copycat_slope",
+			"copycats:copycat_vertical_slope",
+			"copycats:copycat_slope_layer",
+			"supplementaries:altimeter",
+			"vista:picture_tape",
+			"caverns_and_chasms:copper_nugget",
+			"create:copper_bars",
+			"blockbox:golden_bars",
+			"woodworks:sawmill",
+			"modulation:cast_post",
+			"modulation:chain_staff",
+			"modulation:zipline_staff",
+			"supplementaries:statue",
+			"create:bar_of_chocolate",
+			"copycats:copycat_ladder",
+			"copycats:copycat_box",
+			"minecraft:music_disc_bounce",
+			"caverns_and_chasms:bouncer",
+			"cratedelight:egg_crate",
+			"cratedelight:sugar_bag",
+			"cratedelight:gunpowder_bag",
+			"blockbox:brazier",
+			"blockbox:soul_brazier",
+			"blockbox:polished_obsidian",
+			"cookielicious:beetroot_cookie",
+			"cookielicious:pumpkin_cookie"
+		]
+	},
+	{
+		"action": "remove",
+		"patterns": [
+			"/blockbox:.*copper_bars/",
+			"/caverns_and_chasms:.*toolbox.*/",
+			"/minecraft:.*sulfur.*/",
+			"/minecraft:.*cinnabar.*/",
+			"/blockbox:.*diorite_brick.*/",
+			"/blockbox:.*granite_brick.*/",
+			"/blockbox:.*andesite_brick.*/",
+			"/blockbox:.*lapis_lazuli_brick.*/",
+			"/blockbox:.*cut_amethyst.*/",
+			"/blockbox:.*polished_amethyst.*/",
+			"/cookielicious:.*tile.*/"
+		]
+	}
+]

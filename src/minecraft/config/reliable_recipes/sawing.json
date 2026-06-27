@@ -1,0 +1,6 @@
+[
+	{
+		"type": "woodworks:sawing",
+		"action": "remove_recipe"
+	}
+]

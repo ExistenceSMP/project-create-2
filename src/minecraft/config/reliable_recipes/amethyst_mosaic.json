@@ -1,0 +1,14 @@
+[
+	{
+		"action": "replace_input",
+		"output": "blockbox:amethyst_mosaic",
+		"target": "blockbox:cut_amethyst",
+		"replacement": "caverns_and_chasms:cut_amethyst"
+	},
+	{
+		"action": "replace_input",
+		"output": "blockbox:amethyst_mosaic",
+		"target": "blockbox:polished_amethyst",
+		"replacement": "caverns_and_chasms:cut_amethyst"
+	}
+]
