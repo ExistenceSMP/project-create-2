@@ -13,6 +13,10 @@ file = "config/fieldguide-client.json"
 hash = "ec474c694a37f5416bdd99f971f8a85e18bcaf5eadbf3738234a76fd588f5126"
 
 [[files]]
+file = "config/paxi/datapacks/existence_smp_handler.zip"
+hash = "ac3876d9ad79816c1fd70e16c00ee6608aa55eb0b1a2a24f1feb2e2d57f573b7"
+
+[[files]]
 file = "config/paxi/resourcepacks/computer-craft-recreated.pw.toml"
 hash = "80f3bf087de6cc56980a5cefed751f165989dd5b63dac4f682a9cc9408b20079"
 metafile = true
