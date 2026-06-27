@@ -659,8 +659,16 @@ file = "config/vanillabackport-common.toml"
 hash = "a2b89368ca2554e9fbae2d4354b009fd912eae703d2544933c18ed0b664d8373"
 
 [[files]]
+file = "config/vista-common.toml"
+hash = "28c6e37b46ce0162cd73751f757246f88bed9e3ef015fb33f00ffdcb88c7b698"
+
+[[files]]
 file = "config/yosbr/config/jade/jade.json"
 hash = "545274d69c1e6649b04388e40b647b7c71d18d2980cabf2fffb16bd51fdc912a"
+
+[[files]]
+file = "config/zipline.json"
+hash = "b1432a1387bff2306c152d85b88f96f0f2b06831d61c5552b4e874ca23eb49a6"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -1074,6 +1082,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "8bf0bc2e8a6e334b0615f3799b86b86668dd3a2f5cd38fb76ccc18601e12cb65"
+metafile = true
+
+[[files]]
+file = "mods/player-pronouns.pw.toml"
+hash = "29e428fef03376f8cfa9d95817fbb6a9df5e0183b1a803300452a59a80c1af1d"
 metafile = true
 
 [[files]]
