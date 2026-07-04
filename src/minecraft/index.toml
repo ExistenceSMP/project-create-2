@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/derps-every-compat-texture-changes-that-are-yummy-yum-yum.pw.toml"
-hash = "ea653a50f9486c7aa7fe8da424a3b8dda9b8f0a7b750f46eb002ee95c8c795cf"
+hash = "e58956903741d51a6950b29f0499a34598eb3fea7a2820ea896acdb3deabc2e0"
 metafile = true
 
 [[files]]
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "5c3b2fcb9762b53e2e18fe090180a2062bb5cbf65fa8a774d44b55af60705ebe"
+hash = "fc035483de634dea2c5f0de8d58bca502f9ba69f88c867a3d65811f8ca43f1bd"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "3ff56ed3acd2b9a539b202ade79ca2ef2a9113f757d0e9056ea73a48a0ede08b"
+hash = "61182ffe1529f1fecc1f20f1479c6a363ddd2d9a5381a401eae33b58e1579238"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/crate-delight.pw.toml"
-hash = "68a6089104825858beb345ab44c435fff997cf5f1560b39e215574b3e1ae5c2c"
+hash = "0de6ca1144add891531e57da056256a92e65fd495e6fa1a02ba4d08b61ef1150"
 metafile = true
 
 [[files]]
@@ -951,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "mods/field-guide.pw.toml"
-hash = "a790089cefa682476154e6dcabb91ed05ea384522c5f97e9b3a3ed483b1abf28"
+hash = "68858d586b4bf4f5838157422719aa1e4c3703c4e6ba7d8819679b60aab0942f"
 metafile = true
 
 [[files]]
@@ -991,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "19177487dddc1ead8eb8a17b752c1ecbb43a3231f8c1c700bec9684769ab60aa"
+hash = "914cfc23589db57e30af0ab62c219b8e84af99f33834d27f637d17464a817930"
 metafile = true
 
 [[files]]
@@ -1001,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c06b104e7b7d3b36ea588041c9c39a0a469f259deabbc78388e30828ab7bfb12"
+hash = "e4d7a4e64f0f7d48ff731605ff3c1ad6a90953a8fac51de34cd1713371d2e219"
 metafile = true
 
 [[files]]
@@ -1021,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/mini-music-tweaks.pw.toml"
-hash = "45d94219c81e89c89a7ef7ff2fe5c5808cba61ac8fccc99f5cb3d799fc167e3a"
+hash = "1603e0ee0275139b45608d1cc79fd9c23e77d1c64d5e1ed54b4c323dc77bcdbe"
 metafile = true
 
 [[files]]
@@ -1031,12 +1031,12 @@ metafile = true
 
 [[files]]
 file = "mods/modulation.pw.toml"
-hash = "c92a8ba1a7d12df2438e031f5e22217978034f679435f348f82b81ad405262c0"
+hash = "6af315af6d803fd58c98fba3b7b9fa856946a62efbea50e6d24c8d270a863754"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "35f3978fde937067b17fb791c090641ab7effc363404b95940bc0610d41f6701"
+hash = "4eba5924ca57609e5c671b85ac88fe4bf80e230dc7e5b73cd8e1c3ddc9275a29"
 metafile = true
 
 [[files]]
@@ -1096,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "87d207bfd18ecb3a3bdc1d53a0209b9729f2443b5786bbdf2b7294fda6d40903"
+hash = "15d8bd385f9be1d59e4db92bee2caf8eda7d0e0913b7045029a7529ba9d2dad3"
 metafile = true
 
 [[files]]
@@ -1126,12 +1126,17 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "1bceca1772cb65f56d20e3f3ba38ff9d956ee56a27057d08a46fd02f3a05ad86"
+hash = "e32e434f778a1737229b4cbfb958860b3abbcf8160b805439293e7c93a00fdc4"
 metafile = true
 
 [[files]]
 file = "mods/reliable-replacer.pw.toml"
 hash = "bc9c8c4f08b58016bd03850976d4452047ad101591e257b72b36017194c86306"
+metafile = true
+
+[[files]]
+file = "mods/reliable-requiem.pw.toml"
+hash = "e996e20d11e0fb6f7c6c1ab7df33f40890727c65a5211018708bf9fdcd762328"
 metafile = true
 
 [[files]]
@@ -1176,12 +1181,17 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ba2383e54d9ed12175f94f00f598b5749acca284dd216ef40f1bb6a6d8f96c99"
+hash = "01f027f4693cf8c4fbbf06602d6184f47f8143eaadaac7aac05230176d9115e7"
 metafile = true
 
 [[files]]
 file = "mods/the-block-box.pw.toml"
 hash = "193dcdf0cf8ca2345e45454eb5b74d6dc6e42187b0f17a8cae94ea26d730bd90"
+metafile = true
+
+[[files]]
+file = "mods/tiny-takeover-backport.pw.toml"
+hash = "4ace094ec747a7c23789acd1bfedaa2aba745a942eb9fa0de3bbed97b754012a"
 metafile = true
 
 [[files]]
@@ -1221,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "a8360dcd2f871f81f3596f0da20092acca735990d4efd41b3c82b8cc6ef83489"
+hash = "6ab1db0ec8a48682bd3b68859af7f83dfd88de23e3862758ce4f53d445397a10"
 metafile = true
 
 [[files]]
