@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "config/reliable_advancements.json"
-hash = "357bea3b8f4c2b157273e8e5c0c691ff8d5fd0eb9c74f851438296d93d6f026b"
+hash = "1b6ed049a6665888c29bcfbf15744839d566b701089be9fe79459d39af9cd180"
 
 [[files]]
 file = "config/reliable_recipes/amethyst_mosaic.json"
@@ -951,11 +951,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "66cebcf946ddbee0c87ef58f61ab34fba55992e1bdc89c81d71b9b8adb8de3dc"
-metafile = true
-
-[[files]]
-file = "mods/field-guide.pw.toml"
-hash = "68858d586b4bf4f5838157422719aa1e4c3703c4e6ba7d8819679b60aab0942f"
 metafile = true
 
 [[files]]
