@@ -643,6 +643,10 @@ file = "config/reliable_replacer/swapper.json"
 hash = "a2b7163c8a51bfe3147733923c0e0c8017c1bad9d44903ebebbd1d847de8bb14"
 
 [[files]]
+file = "config/reliable_requiem.json"
+hash = "fed46b97877b884124948d6f3c2d02e7baea05d6df8e810c81149b56e73fb2a1"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "14b3353d9ea19fafa270dd3eacc6db0742cb591e7cc3f5beee5ea49026388e91"
 
