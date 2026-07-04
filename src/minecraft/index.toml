@@ -6,7 +6,7 @@ hash = "eb64b91d2cfa78a25356211ff408c8f2c62a676293e43d99d41098c824d1a6df"
 
 [[files]]
 file = "config/amendments-common.toml"
-hash = "1997efce242b055e6299c50c1eadf02245922d046de04090063ec5d46a9a2227"
+hash = "637b1d4e092d060c60fb06d012f48aa7374469d4c4b5106f1091642908fca958"
 
 [[files]]
 file = "config/fieldguide-client.json"
@@ -1141,6 +1141,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "649a8872442d68d127e1a7adb727b5ede2e08da17d758e659b213c6a8a2d89a8"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+hash = "580bd8aa6cb6adcdb5b3220b60e95ed614088e5d768a5ab97b721c2dc1c67364"
 metafile = true
 
 [[files]]
