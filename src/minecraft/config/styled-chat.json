@@ -14,7 +14,7 @@
 		"emoticons": true
 	},
 	"default": {
-		"display_name": "${default} <gray>[%playerpronouns:raw_pronouns unknown]</gray>",
+		"display_name": "${default} <gray>[%playerpronouns:raw_pronouns unknown%]</gray>",
 		"message_formats": {
 			"chat": "<${player}> ${message}",
 			"joined_the_game": "<yellow><lang:multiplayer.player.joined:'${player}'></yellow>",
