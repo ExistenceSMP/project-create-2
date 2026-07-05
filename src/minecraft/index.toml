@@ -843,6 +843,18 @@ file = "config/reliable_requiem.json"
 hash = "fed46b97877b884124948d6f3c2d02e7baea05d6df8e810c81149b56e73fb2a1"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "f24e0247992b83d68d229dc34bd70977795acf51a3f9272462c1a1003b381ac3"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "c0fc0432ccafb35b9a778760db72919c2e2da4f29f376d17e2d22c050aab6244"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "db58d5b33cd58bb6dad0a345f9ea59d7a3d463a91ebaf15b671f36d6e7d8f58b"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "90e41edd2aae19145138323f64d051990b8079f1dacca0582e0062f24783612f"
 
