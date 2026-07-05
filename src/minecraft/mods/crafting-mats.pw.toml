@@ -1,0 +1,13 @@
+name = "Crafting Mats"
+filename = "crafting-mats-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jygl7wra/versions/JWK10PD7/crafting-mats-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha1"
+hash = "5c030a2d91fd19baa12721a30003ad9b6a69b4fc"
+
+[update]
+[update.modrinth]
+mod-id = "jygl7wra"
+version = "JWK10PD7"

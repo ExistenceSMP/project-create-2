@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/amendments-client.toml"
-hash = "eb64b91d2cfa78a25356211ff408c8f2c62a676293e43d99d41098c824d1a6df"
+hash = "c9d2108d673e545280d3eb87a1e16e974c85cee7a571386926baaa8f2915171d"
 
 [[files]]
 file = "config/amendments-common.toml"
-hash = "637b1d4e092d060c60fb06d012f48aa7374469d4c4b5106f1091642908fca958"
+hash = "2e8fe91ce8e665f9b671ff92ec0c8bc6629848282c6360202677b7638a1f692f"
+
+[[files]]
+file = "config/environmental-client.toml"
+hash = "ed620719ad5fd24d8346bb1b420e9f0d883a03297167d37009d7bbcd486190e7"
 
 [[files]]
 file = "config/fieldguide-client.json"
@@ -182,15 +186,15 @@ hash = "f835ec492755e701626da7c9acbab6e7e8eec8ee9e2aba3660f21aba2ce2ca5b"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/world_of_color.json"
-hash = "cb336852c41dcaffe9f1eab71992c8aa7d74d5ab3e52fcdb68a9b37f9bdd8db3"
+hash = "88c96305624b3b7b1c1f5f07d41dd6f2a1154587327324ff0a228b41850ece82"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/root.json"
-hash = "ec84717648e047a016312fd6c623581ef9be6f3580de3dd738de1221afc08a5b"
+hash = "93474f000372b14170dd387554ea936793090a497d9cf73df35fa0fe6126d615"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/root_events_roles.json"
-hash = "4178c4ca6402b8a8b92e5b0c49990d782385a3a6f286473bde666077cd0efcd0"
+hash = "6a676b3a891b8ac71e6b4882b2670d8dfea213a5a5646803c8dc856ad76fe8a4"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/spyglass/creaking.json"
@@ -569,12 +573,204 @@ file = "config/paxi/datapacks/existence_smp_handler/pack.png"
 hash = "1dc555fc56b8ad08282a5ba6aa37b8b7d96abfdc75b35f4f817c0925d4c08bb5"
 
 [[files]]
-file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp.zip"
-hash = "f6427a2ce325bdf30a42fc340bf28b807b2c01d3dd91d3fa25de8d8c01defa9d"
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/advancement/afk_detector/are_you_still_there.json"
+hash = "6614c348dbeafd434347eecfb333137bf7ef2ecf725cdd898d7ed36685c5b1fe"
 
 [[files]]
-file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping.zip"
-hash = "d100a5b63aad45d239628c62c562cf9585ef0e3a3c2c52adcfd3d6cb23cb644c"
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/advancement/afk_detector/how_long_have_you_been_there.json"
+hash = "6422a6295b3e2ccc324e6c996f4a90ca2f185bad84683bff41daa98ce9baef0a"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/advancement/afk_detector/is_anyone_there.json"
+hash = "ae4b53929d3a8d66d4d3fada99d11f78452a9a38e0ce18fffb139a3a1d622e10"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/advancement/afk_detector/oh_no_dude.json"
+hash = "fe340aa210c4c81a1f10b67faee2d799e3cc4b8578ce20268f60e4570c8b152e"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/advancement/afk_detector/welcome_back.json"
+hash = "b4caf65ad1c41eb9fa771f3d58ddda1c1a75e10cb95d73c859044d46c4d7931c"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/advancement/root.json"
+hash = "86198ced0bb7dec67b4e092a64ad075c5186b27fe9679fef09492484d0d4b0db"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/advancement_check.mcfunction"
+hash = "3d2e25f3e1bec0cb941aa85863e126d24cb147f10e93da0073116264e186805b"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/advancement_count.mcfunction"
+hash = "4b308b6fbe7dc44ae87eba3aa99926b35b55722be72833c9cc0c24aab6b18d85"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/advancement_update.mcfunction"
+hash = "e773112310698322f480ee11115bb56914dbbf9dad3b70d42c6428c27721670f"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/afk_away.mcfunction"
+hash = "284200f81bc0680b5cc9ff2305272307ff36ae201659a8e7c62f3b7f085740ed"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/afk_back.mcfunction"
+hash = "60fefbb34da2c3056d654902a1b9a23d42c70e6e16d8f890c7332d1b6589a839"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/check_pos.mcfunction"
+hash = "2745d139d6626701c054a10261e89a0f1e8705eadeb17904643f5d1695ec5b8c"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/clock.mcfunction"
+hash = "5a69b329a8ca7adeb5beb06e5ca09dd3f532b624ab0b974ecd407a54805dc1f3"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/death.mcfunction"
+hash = "1c3867ecd5cb2dd432017b816517a5853d62de17af97c485a8529c3460d07526"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/load.mcfunction"
+hash = "1c2adc32419870d238d07b66142990d7a31b08531e22ae90cc2e968c18a7ec8d"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/scoreboard_migration.mcfunction"
+hash = "e6ea43b7035769de94f96e889a4ad06f0db5bc658202a20f301cf774e20ddffc"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/setup.mcfunction"
+hash = "9463d4853031dd59e137ae4cb569b117c97da5d4edac44441395e8465a24f8db"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/mcpeachpies/function/afk_detector/setup_team.mcfunction"
+hash = "7d637278421e5f135a518098fd0f240fa0eb072b2cd0438e0253b8b0f2714c29"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/data/minecraft/tags/function/load.json"
+hash = "2498e5ac37512a3e4ab402526d6794add46107e6c6cba44a7157cffa076d104f"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/pack.mcmeta"
+hash = "0635ad3556806a37b987d00b6200130978056174572217c2f56e22ac6c79f44f"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_afk_detector_existence_smp/pack.png"
+hash = "f8700e4b23db550f0664b5abcfc20869bed1ce06eb5527bc4bad5553e8248b24"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies/advancements/multiplayer_sleeping/insomniac.json"
+hash = "41ed58a75908b364ca2ddf5af5a3c6afaf1cb5574b38f669accf5ff1858158b1"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies/advancements/multiplayer_sleeping/late_night.json"
+hash = "4e73e5adac8690843a6dbd996e7aa5f0e936ac9a95a1854ec47a59e2764ada50"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies/advancements/multiplayer_sleeping/night_shift.json"
+hash = "0a467c0c8df2b1020fa0ab6cb7fb4a1e442a6a001b7d8ea7146aef1b3dd15b94"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies/advancements/multiplayer_sleeping/restless_sleeper.json"
+hash = "517de24ad6eb6fe7c911468d145e874f2d16dbcccb425a22e3d171c35e822fbd"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies/advancements/multiplayer_sleeping/rise_and_shine.json"
+hash = "6a64a962e7c1676b260c154a3f75f0309d2ea2255acdcfc45a0e02806c4829f1"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies/advancements/multiplayer_sleeping/the_courtesy_call.json"
+hash = "c491b32655747e275ba086ae0b1df810651a566deae9dde6770e4bcfd01fd012"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies/advancements/multiplayer_sleeping/the_wake_up_call.json"
+hash = "d277c67dc110987bc2c458224a4807b011d2d8eb2ee83021941894fc423c9839"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies/advancements/root.json"
+hash = "3595b294857ab5e31a74b7c7655870e441d01f66265c84c374cfa9ace1efe111"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/advancements/sleep.json"
+hash = "5f9cdddcca813ab84b7070f00318d11d36a26eea98974c7063e83eb4550f2a98"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/advancement_clean.mcfunction"
+hash = "b87345050fc90e8fed245f5350c61417ae0406a0fbee585bb7a4b70da86b29f2"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/advancement_count.mcfunction"
+hash = "705ba439a871827b19781081bbabbdbf250fbf37434bbd744f02358bda5e2b92"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/advancement_count_insomniac.mcfunction"
+hash = "2f9c70e81e39ffdbaa0e00096a947b890bad2c1f9089035dca749678506ee2de"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/advancement_countbulk.mcfunction"
+hash = "7f19968e6b23af0f3f9bab02edba4a8a49447b8a6547ec62ee3d26416f97a641"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/clock.mcfunction"
+hash = "0bc9d0dc36e2a4b1873404166b39f571b15097b6e65d43b42a9ff74c2230d088"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/clock_trigger.mcfunction"
+hash = "5fac0865c4c49ff1d66a4e24870aac97eaf3a55ab4837464c75592de2d19649f"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/enter_bed.mcfunction"
+hash = "0c25f21270285255687246babe159960e5878f345b08ded701741c8fe55c34d7"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/exit_bed.mcfunction"
+hash = "2bba97c0be6d5643df0385c552284634b9063b607867d837bf30c1252257e1e1"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/gamerule_reset.mcfunction"
+hash = "9858330402082847ac2c192cdbdef991edd6a9861a7937f526edc52878ef4c24"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/kick_bed.mcfunction"
+hash = "8f8980e74015a51bf81f6617882750d0f7df814256420a806d180fdce60f9732"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/load.mcfunction"
+hash = "25c9f0c9c4a429374d91dd068caed3933923284a4309614139d45f76b2ac738c"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/pass_time.mcfunction"
+hash = "8b3b93675a0570b6eac557c2e64292c8f19c099dab626b724b538db0240fd875"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/player_count.mcfunction"
+hash = "8a985b9608b7246c717b26cb3974ba368094a1a2bad0051766b8fdefca0d7c25"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/functions/setup.mcfunction"
+hash = "4698c36dc52666b38f0b8323bfad4d6e2a5ba5b69fe172b5105b1ff518438eab"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/predicates/in_overworld.json"
+hash = "1bc8fc733498306569916db135017b7b6b14bb1fdfaede5a41f9f17e579961c8"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/mcpeachpies_multiplayer_sleeping/predicates/morning_check.json"
+hash = "ad17eaa198b705bd5e7af4aae82b7d5b27e17ac2f921515bc9ff8496e580777f"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/data/minecraft/tags/functions/load.json"
+hash = "218310465089da3ae9ad3c57a7055fbec63df0a80b84aab3a5046a294ce9946a"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/pack.mcmeta"
+hash = "11b643d1129661a87c1354ee08340d7df7e66fbd09a8615c3fac81e37035ac5a"
+
+[[files]]
+file = "config/paxi/datapacks/mcpeachpies_multiplayer_sleeping/pack.png"
+hash = "8873c517483977a7a4bf10983aceebd9328b03ea9c4019cd9a5f56b79ea4e8c8"
 
 [[files]]
 file = "config/paxi/resourcepacks/computer-craft-recreated.pw.toml"
@@ -583,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/derps-disc-fix.pw.toml"
-hash = "dd3fc404b5a7e4e016d9b5999ff73a6a81ea8af58a63cd94cac89b50e6ff3b97"
+hash = "fadf05a43bd6d2985615153973bcac5c6c645026f97b5ff6d8b65982ea69c94e"
 metafile = true
 
 [[files]]
@@ -636,7 +832,7 @@ hash = "0d863762b6f0b9de5b8110b3af403f81206702b123da99ca0d9781ee3ff75f5c"
 
 [[files]]
 file = "config/reliable_remover/misc.json"
-hash = "f02eccddbfb39a2103a81f97c3a78ee1ba742e439e0205ffa27be7cdfb4a9136"
+hash = "03fae57715547c0bf17a40a10851f7d76215898a14768d136dd815b86fc147e3"
 
 [[files]]
 file = "config/reliable_replacer/swapper.json"
@@ -648,11 +844,11 @@ hash = "fed46b97877b884124948d6f3c2d02e7baea05d6df8e810c81149b56e73fb2a1"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "14b3353d9ea19fafa270dd3eacc6db0742cb591e7cc3f5beee5ea49026388e91"
+hash = "90e41edd2aae19145138323f64d051990b8079f1dacca0582e0062f24783612f"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "190b3958fec3aaa0949077ada4acfa00bbc86cb15e6c4dfbc3ec7afc470041ca"
+hash = "7d0702388fc64739e9448393eeecece49b5f8dfa4d6234b2bef5bfff058b90df"
 
 [[files]]
 file = "config/vanillabackport-client.toml"
@@ -664,7 +860,7 @@ hash = "a2b89368ca2554e9fbae2d4354b009fd912eae703d2544933c18ed0b664d8373"
 
 [[files]]
 file = "config/vista-common.toml"
-hash = "28c6e37b46ce0162cd73751f757246f88bed9e3ef015fb33f00ffdcb88c7b698"
+hash = "1864769022c6c31fb0279a7009adf5a8473612a3d863c2736d449b1f6ac9612c"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
@@ -804,6 +1000,11 @@ hash = "06730a80047cbbb82d22c1c23086b584d19b55ba3fd42d60fbc2c35ec3a182e5"
 metafile = true
 
 [[files]]
+file = "mods/crafting-mats.pw.toml"
+hash = "c02a5de76cfedd4816eb473bc7d72c6784a8fc91e8732d96129fa2993c45eb5c"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "0de6ca1144add891531e57da056256a92e65fd495e6fa1a02ba4d08b61ef1150"
 metafile = true
@@ -906,11 +1107,6 @@ metafile = true
 [[files]]
 file = "mods/environmental.pw.toml"
 hash = "5b64fa213a8fc7175490682b51c961528142092104b105e2021ceff648152936"
-metafile = true
-
-[[files]]
-file = "mods/etched.pw.toml"
-hash = "fa2c229a7e7823dfdb4929df99df0cb6fe27035d410c1e142abc60142782b56d"
 metafile = true
 
 [[files]]
@@ -1089,6 +1285,11 @@ hash = "29e428fef03376f8cfa9d95817fbb6a9df5e0183b1a803300452a59a80c1af1d"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "eba3450c973762915b4e7f2cc20f0afc03baeb82b9092e00ebf5e76f7486d5cc"
+metafile = true
+
+[[files]]
 file = "mods/portfolio.pw.toml"
 hash = "e49b54033da3ac1ea37185139c099bbf23379dc6eb296b524a8a51061cc6d9fd"
 metafile = true
@@ -1110,7 +1311,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-backpacks.pw.toml"
-hash = "65fcf36f9a2f4c4cbfe77526a8cf69f50cfa74232ee088b6cf6d32204a2284e8"
+hash = "fe99a26f754a3e2513fc9548411af77b8e65e801093fa2aed5d952ba1c6656c0"
 metafile = true
 
 [[files]]
@@ -1196,6 +1397,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-takeover-backport.pw.toml"
 hash = "4ace094ec747a7c23789acd1bfedaa2aba745a942eb9fa0de3bbed97b754012a"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "70bdeaf2bdab082300c9d64b920ee1eb166b8b51925e12824f9e33ce0dbb8d20"
 metafile = true
 
 [[files]]

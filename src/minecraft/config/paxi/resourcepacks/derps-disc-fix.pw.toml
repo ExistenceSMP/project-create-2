@@ -3,11 +3,11 @@ filename = "DiscFix.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/O6QC3dOc/versions/8K3omNZY/DiscFix.zip"
+url = "https://cdn.modrinth.com/data/O6QC3dOc/versions/DUUsEBh8/DiscFix.zip"
 hash-format = "sha1"
-hash = "8e44535753aeabb64433a3104e294b994e2be1a0"
+hash = "77fb8e170623b01fc4058df75c9fb7d2aeb5fb1a"
 
 [update]
 [update.modrinth]
 mod-id = "O6QC3dOc"
-version = "8K3omNZY"
+version = "DUUsEBh8"

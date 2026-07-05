@@ -1,7 +1,7 @@
 name = "reliable-backpacks"
-filename = "reliable_backpacks-neoforge-1.21.1-1.8.0.jar"
+filename = "reliable_backpacks-neoforge-1.21.1-1.8.1.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/GVh7zzwG/versions/RHEClEMU/reliable_backpacks-neoforge-1.21.1-1.8.0.jar"
+url = "https://cdn.modrinth.com/data/GVh7zzwG/versions/rwmePr9b/reliable_backpacks-neoforge-1.21.1-1.8.1.jar"
 hash-format = "sha256"
-hash = "3adba7a94a73db5cf160a3d0548cfb8e244045e7680e98999a1373773a8122e9"
+hash = "9bcdcec0da23d64d68142967492002f34ffc13ba835f586c20549a20983143b5"

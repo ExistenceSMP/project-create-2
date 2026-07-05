@@ -28,7 +28,11 @@
 			"blockbox:soul_brazier",
 			"blockbox:polished_obsidian",
 			"cookielicious:beetroot_cookie",
-			"cookielicious:pumpkin_cookie"
+			"cookielicious:pumpkin_cookie",
+			"vista:mirror",
+			"vista:crystalline",
+			"nest_egg:emu_egg_crate",
+			"nest_egg:duck_egg_crate"
 		]
 	},
 	{
