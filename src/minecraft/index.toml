@@ -358,7 +358,7 @@ hash = "dd6da14bf6f23e3fc385ccdb8c0ac6198e58486542c69c0cd84f71c984d48673"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/clock/hud.mcfunction"
-hash = "6c9ee8c8041c05d5e5780a0c6078a478b8c4c3086344a9ecf71ed0ef2e056c7c"
+hash = "fb3b56e98b82b9b17f4c03fe2e602a5f9871693e1d4bcf0e8c9507c9f86828b7"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/clock/store_pos.mcfunction"
@@ -378,15 +378,15 @@ hash = "080b9e87cd90d0367031f4e83bda2b443d2c2b1d63c20c842a4dfcf418576209"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/join.mcfunction"
-hash = "f5604d5bd6b227481b62f400e7b6e7f180040b37f699d2dc62cba6f1f8706d69"
+hash = "5d4e647f10360ce3dd7b017784ae1a4c2fce439a9409a0432273da6c023fb614"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/join_first.mcfunction"
-hash = "f4e91d5c89b57bf7b7a7bfbd3dc39e45047714fa056abe468520f37aa19ca23d"
+hash = "78096f5fbbe05dcbda1c43ab0b088f4a21eefc414c520493e67e004af37bd3fd"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/load.mcfunction"
-hash = "82e42cc5d7d2342ce92d194901518ed80fd7060e8d51732a626c36a06be8f871"
+hash = "8fcbee2b93201555b3864a00507e831ee9d2e50157299393e3748b0e37606b31"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/patron_color_update.mcfunction"
@@ -394,7 +394,7 @@ hash = "dbbb746f9127c4852d7c93b52c49f232cb92d80bb065e7cdc4d75ca23260b327"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/run.mcfunction"
-hash = "b584f15c262d57fa22eddf662feadbf3ee842c0fb1992545b1609f187a9966d7"
+hash = "37369a62216ad7197348067e79985af49ab25147498914a501cb5d5f2d093c98"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/scoreboards.mcfunction"
@@ -410,51 +410,51 @@ hash = "5fd3d1ace558799f665cd64c131af92db4462cca31c7cb335e33d77f07f5a61e"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/setup/teams/load.mcfunction"
-hash = "a204c140355a0938211115cc9cffc0927fe8ecb7d11c529182d17ef6a174e26b"
+hash = "18ff884944c44d6061d100ee860f3a0c940cd5495c4626b36a7795a735f49ab0"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/afk_total.mcfunction"
-hash = "3142ccc057a5e468127a4e802e5b6d3d0e025d60aa7ae78e8da62eb86c4fc9ab"
+hash = "3a1e3f8ee4f77fa392f665d85acdd59c9520a1553ae09b0b36000c4edc0ae4be"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/boat.mcfunction"
-hash = "bcc5aea7c0dfca8a0e0195a9af4c8754f6c21ebc43f8ea3ee4d0ad22291c3337"
+hash = "66b2c183dcb350195dd9a97d9e8e823e20776f15a718df8b41e401a8d384bc91"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/climb.mcfunction"
-hash = "74907476a40884a17c53003422fe25d391eb8509d91b1ee72c4fdaa6a78555a7"
+hash = "48198e3edf26605d81e6b648256a53718bf6313a59065d2df71bd6ba24518683"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/crouch.mcfunction"
-hash = "a780ca031ebd3612e68c4d1d6c184eaace4a9c59468c2c4c5ec8ba139c4a45c3"
+hash = "b6b9a936bc00796d369339c7b76faaa805dd3c832d22781b04224adb30d1b5fb"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/deaths.mcfunction"
-hash = "80b464b2634e0462cd41dadd9537e5d54f0e2f68274c5d97594bc63465804dcf"
+hash = "059f421223ff8086db8d24c465c9b1c27d03a500e86fa6ef7b60614e52d47a2c"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/dried_ghast.mcfunction"
-hash = "b747ed2442fd328a354bc8038c2465619c16ed3532dbea3886941189ac61ca9e"
+hash = "367e0bbdd581127cab5fc8ceaeaf29ea97c95e902b831e7177898a8eca004893"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/elytra.mcfunction"
-hash = "25cd4ef92fdb1c0083aaf98ade2699380dd78cde67f7f61b9b2c311341f77751"
+hash = "e33885a8a80414c213a2c8f07546bd00a2ba2fbb222dfffd867bb039502e7dab"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/horse.mcfunction"
-hash = "15c38480cd5ecdf0999dad9c9b9178963348bcb19b35e64ba3422d49342a678f"
+hash = "2970945a68a705476f6456757fb026d3cd0bf8dd2ed8dd1bc99a345260ac62b8"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/hud.mcfunction"
-hash = "492ebb4e1609eb4b12ef74b511223bea6e01830232f47da0b2e74e94cca97bb2"
+hash = "6e65481a1d3adcd9840c17487fb3503ae4a113bff4cafbdf379b18d744c6501d"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/map.mcfunction"
-hash = "d44b5cc3c3ac30da31250417fd09a71e57b757b96f214b986f52f941f5919f30"
+hash = "db1fd73891f374d1fbbc8c2087153ce046827bc7d30325919c83a6d1e120588e"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/minecart.mcfunction"
-hash = "a2528126ffb169abc4d8f531511bd00d11969c323d08c320be4df9cbd63e136d"
+hash = "15a1cc85c2bc61c6a2e2b915c9c8cac8710b667e9c7413a271602886b926a548"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/patron_color.mcfunction"
@@ -462,11 +462,11 @@ hash = "0d1e95b4a4baa6d1c78fab01d527f246022fda9b03b550958b21beb98bc3d41e"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/pig.mcfunction"
-hash = "6ea5976ac14fd595e21371f79bb6c2653df1cde2f836dbbca45f39306344adcb"
+hash = "21fce14b579ec2e4c8eaf6308131b825516fbece01d96b0945fba4a963e873e6"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/playtime.mcfunction"
-hash = "83ded985a08e5156ab05f65b23578821ac616d7a0f4ea340a7ccf3940695f148"
+hash = "b31fbcb4bfc2a98ddeea0e84b10320a7075fe06ccd6d0e5364f36674d996c801"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/scoreboard_clear.mcfunction"
@@ -474,39 +474,39 @@ hash = "3b7b7ef91f8ee978ccbc1dff17bc19ca042b2c1850067a41f931e6a94e5ab064"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/sleep_total.mcfunction"
-hash = "9095a2490485488725c446ee1c00acffcf893821381738c0f09584732f03adc1"
+hash = "12730744db625a429cfc1a730b8812de12085ae776c27fd8c7a5e0d2117155e3"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/sprint.mcfunction"
-hash = "a404ed6f56aa950434bd60075379bd06929c774c811f10750034e30368df0b20"
+hash = "b36d6f1ca88e688c651e35bd68725ebcd2f52684ea9f73e4fdcceecae0987611"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/strider.mcfunction"
-hash = "b656260826ccd923e7938ef86850154223e4f34bc1d11e98b2bf54bf9c1a6a52"
+hash = "794a02264bd3fbd3c3e4f5e4030e0c247aed5ca1ee693ba2e4d882b367da1218"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/swim.mcfunction"
-hash = "9f1a0377b36b4be91f1f0c0071a1ee2f8e6d71ee2ca653a7c7772ab0593b9c23"
+hash = "1ce645f61a9dc62ef6ba7e778e491ff2c70079447f076c145c185768415da1ec"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/transfer.mcfunction"
-hash = "228dd66a3f365f1ca10d86381ee00952bdfaa6e460230f8fbc66577f1a30c3a5"
+hash = "f42e57fe8f007d1487d78f9644f1d1687c265ab9b59770f394b501b03d09eb0e"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/uptime.mcfunction"
-hash = "9df0788660ac7d5639f0170fa9ce366173249697e28e8670fdbaf59058a86326"
+hash = "79ffc5b0e03c0b0a9935609b9d1d6a209554d0dee9b4b901629fe48f2c681c24"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/walk.mcfunction"
-hash = "6b0674dac4d579f8f87583495825ecb90f69ffd52f12bb8bb7aaee1a48ed085e"
+hash = "bf5b6233a93a266e0767eab45195c7c494ce97aa75d1b68d05f1d477bda94644"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/wardens_killed.mcfunction"
-hash = "82009fa1484b5617058b7e1fbf3dcc06f26f03ddd9a9fd5c62dfd770136acbd6"
+hash = "7eca01b46c3fe756f03d37dde53da18f06eea7bb9903608fc24acdc927d9a960"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/wardens_summoned.mcfunction"
-hash = "b90dbed83432c98fed86bbe34adeaad043752a6b901c0bae5b82f1e0d08a2e50"
+hash = "f6bdb720bd40b14fa5fab92d42f8c2c12e3c3ac6316d2d1041650e0b33b86e5c"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/void_cat.mcfunction"

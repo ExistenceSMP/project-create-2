@@ -16,7 +16,7 @@ function existence_smp:advancement_check/advancement_check
 scoreboard players set @s exi_game_leave 0
 
 #Welcome
-tellraw @s [{"text":""},{"text":"Welcome ","color":"gray"},{"selector":"@s"},{"text":" to ","color":"gray"},{"text":"Existence SMP: Project Create 2!","color":"dark_red"}]
+tellraw @s [{"text":""},{"text":"Welcome ","color":"gray"},{"selector":"@s"},{"text":" to ","color":"gray"},{"text":"Existence SMP: Project Create 2!","color":"#4ab8ea"}]
 tellraw @s [{"text":""},{"text":"Visit ","color":"gray"},{"text":"existencesmp.com/server/create-2 ","italic":true,"color":"gray","clickEvent":{"action":"open_url","value":"https://existencesmp.com/server/create-2"},"hoverEvent":{"action":"show_text","value":[{"text":"Official Website of the Existence Community","italic":true,"color":"gray"}]}},{"text":"for more info.","color":"gray"}]
 
 #Hud Migrate

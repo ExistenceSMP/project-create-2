@@ -6,7 +6,7 @@ execute at @s run spawnpoint @s ~ ~ ~
 
 #Welcome
 title @s title [{"text":""},{"text":"Welcome!","color":"gray"}]
-title @s subtitle [{"text":"To ","color":"gray"},{"text":"Existence SMP: Project Create 2!","color":"dark_red"}]
+title @s subtitle [{"text":"To ","color":"gray"},{"text":"Existence SMP: Project Create 2!","color":"#4ab8ea"}]
 
 
 function existence_smp:join

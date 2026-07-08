@@ -6,22 +6,22 @@
 execute unless score create_teams exi_setup matches 1 run function existence_smp:setup/teams/create
 
 #Colours
-team modify Support color dark_red
+team modify Support color aqua
 team modify SupportPatron color red
 
 team modify Patron color red
 team modify Spectator color dark_gray
-team modify Trusted color dark_red
+team modify Trusted color aqua
 
 team modify Server color gray
 team modify ServerBackground color dark_gray
 
 #Prefix
-team modify Support prefix ["",{"text":"⛏ ","color":"dark_red"}]
+team modify Support prefix ["",{"text":"⛏ ","color":"aqua"}]
 team modify SupportPatron prefix ["",{"text":"⛏ ","color":"red"}]
 team modify Patron prefix ["",{"text":"☆ ","color":"red"}]
 team modify Spectator prefix ["",{"text":"👻 ","color":"dark_gray"}]
-team modify Trusted prefix ["",{"text":"","color":"dark_red"}]
+team modify Trusted prefix ["",{"text":"","color":"aqua"}]
 
 #Patron Colors
 team add Patron_black
