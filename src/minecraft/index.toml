@@ -1422,11 +1422,6 @@ hash = "70bdeaf2bdab082300c9d64b920ee1eb166b8b51925e12824f9e33ce0dbb8d20"
 metafile = true
 
 [[files]]
-file = "mods/tolerable-creepers.pw.toml"
-hash = "c678873799f0c1a4ac8df831a62e53335ecb8e7bbd3260ecf715367db5d857d2"
-metafile = true
-
-[[files]]
 file = "mods/tree-physics.pw.toml"
 hash = "373da7d175e28a4e5efcb7d79e26bc4de9134526ecf510e5a1f6cfeecd165081"
 metafile = true
