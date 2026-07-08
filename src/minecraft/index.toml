@@ -892,6 +892,16 @@ hash = "1bd8f05e0f159d049b7073052352ecdbbbc21117465d500a37b79e4d8d41ca31"
 metafile = true
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "70b95f7d88959599ea20e2faf342124bbc0dc909b74e00242f7a67c0a8dee884"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "d30256081e644c2b110654a8cf376ba351c72e79a47189ecb479fee92f20ff56"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "fc035483de634dea2c5f0de8d58bca502f9ba69f88c867a3d65811f8ca43f1bd"
 metafile = true
@@ -1063,6 +1073,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "9fd14fae5ded9b4d765beefbffbe4c8652f0b5e7afea5b9aeab4654a27cc2ac1"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1a906a173b2562d83bcab9ca0cc9b9dbce52bcca6c4d884641acc56e7a5a1dcb"
 metafile = true
 
 [[files]]
@@ -1273,6 +1288,11 @@ metafile = true
 [[files]]
 file = "mods/onion-onion.pw.toml"
 hash = "2eefd2695f73378717ffb666ced2f58679fe18d31b9887611006dbeab2107f6f"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "37ea60e6c08e5fa9d1fb30abbe1fa0899f11ef17b9ff65f4ea05eafa093161ba"
 metafile = true
 
 [[files]]
