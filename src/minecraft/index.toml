@@ -1482,5 +1482,9 @@ hash = "9bef6b2b913fcd2813b765e1b0a67e6c80e7bf898fbfe880f6f5a85fc1a6678e"
 metafile = true
 
 [[files]]
+file = "server-icon.png"
+hash = "f8b07a9bfb24c77bfb198af0d001b4694b5617b58af606ae34ee84e2edabbb94"
+
+[[files]]
 file = "unsup.ini"
-hash = "d71a4cc9b53272f424f04f6e0d0c4c2d0e508a4a88ec1ed765a9c1532c238340"
+hash = "b9747e950dc84db42c3e40f326b53c4d140e09be4d42802834759009b5c51b95"
