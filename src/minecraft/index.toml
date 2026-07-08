@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MiniMOTD/main.conf"
+hash = "e52a142403a6a10bfb5f500ead0601f5ae91155e8551374c146a575082ea58c5"
+
+[[files]]
 file = "config/amendments-client.toml"
 hash = "c9d2108d673e545280d3eb87a1e16e974c85cee7a571386926baaa8f2915171d"
 
