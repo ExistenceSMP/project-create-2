@@ -1351,18 +1351,13 @@ hash = "15d8bd385f9be1d59e4db92bee2caf8eda7d0e0913b7045029a7529ba9d2dad3"
 metafile = true
 
 [[files]]
-file = "mods/recreative.pw.toml"
-hash = "272ed6ccbcb689abfe51c453b9f0a4a51758b9a942e0a7ce62074dc4bcafa2b3"
-metafile = true
-
-[[files]]
 file = "mods/reliable-advancements.pw.toml"
 hash = "6533fe245cfb389d42dc1c805622a8d89c44637d72c7ff6b7e9780422b63456c"
 metafile = true
 
 [[files]]
 file = "mods/reliable-backpacks.pw.toml"
-hash = "fe99a26f754a3e2513fc9548411af77b8e65e801093fa2aed5d952ba1c6656c0"
+hash = "a6ea2682dec9d1d4d36c5974c7eacacca711db86ae59420446de43a723ae73ee"
 metafile = true
 
 [[files]]
