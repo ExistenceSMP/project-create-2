@@ -1287,6 +1287,11 @@ hash = "5b6f3f644c12c262a7a55e19313bbdd9ef552be27a7d68c0ac3cf0f252500947"
 metafile = true
 
 [[files]]
+file = "mods/picture-mode.pw.toml"
+hash = "9487753f65768ca4d280716eb06b2be2a6a0c491854fcf0442623d14d5f7fc56"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "8bf0bc2e8a6e334b0615f3799b86b86668dd3a2f5cd38fb76ccc18601e12cb65"
 metafile = true
