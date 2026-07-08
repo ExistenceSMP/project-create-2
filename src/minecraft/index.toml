@@ -1201,6 +1201,11 @@ hash = "c6caea8e7f95ff3b25a3aa76fc5be98f189411455e12d07ce0b356ea94e9d030"
 metafile = true
 
 [[files]]
+file = "mods/grieflogger.pw.toml"
+hash = "5ea0f7e67e8081c4c59402fc033db49a5ad703f37158d4d011b1dd99cee5a42e"
+metafile = true
+
+[[files]]
 file = "mods/immersive-overlays.pw.toml"
 hash = "dba25bc091f6fa6e14ad9176af5c825970ea29dc225a6b406105e798ce89efeb"
 metafile = true
@@ -1428,6 +1433,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "2c6a4c59ce4b99a35b28d97c3a8137ec74728d1671ec92f73d58a1e7c3f37da9"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1c767afec23f637a05961b20f3a6b611945d652507bde4e5770eaa330406c2a5"
 metafile = true
 
 [[files]]
