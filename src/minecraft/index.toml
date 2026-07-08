@@ -1031,6 +1031,11 @@ hash = "06730a80047cbbb82d22c1c23086b584d19b55ba3fd42d60fbc2c35ec3a182e5"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "4622f1f5a606cf6628ac406a90628fa727391e79563f4889051f196e984681dc"
+metafile = true
+
+[[files]]
 file = "mods/crafting-mats.pw.toml"
 hash = "c02a5de76cfedd4816eb473bc7d72c6784a8fc91e8732d96129fa2993c45eb5c"
 metafile = true
