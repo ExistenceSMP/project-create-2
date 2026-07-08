@@ -1,0 +1,13 @@
+name = "MySQL JDBC Driver"
+filename = "mysql-driver-9.1.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UbYQ3Fwj/versions/NKjeOsWC/mysql-driver-9.1.0-all.jar"
+hash-format = "sha1"
+hash = "6bc60aef8189afa8eb6974d580d4f5d79b4aaa53"
+
+[update]
+[update.modrinth]
+mod-id = "UbYQ3Fwj"
+version = "NKjeOsWC"

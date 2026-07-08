@@ -1271,6 +1271,11 @@ hash = "4eba5924ca57609e5c671b85ac88fe4bf80e230dc7e5b73cd8e1c3ddc9275a29"
 metafile = true
 
 [[files]]
+file = "mods/mysql-driver.pw.toml"
+hash = "8e99db3440cc9a9c5d02c668218d169ffae717fe5053e2e9322e86a554f702a0"
+metafile = true
+
+[[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "fc2cd185e25a51a0bb132d93471a0c0a24b7970801da94225fffd472bd5fbd42"
 metafile = true
