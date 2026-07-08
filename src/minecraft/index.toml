@@ -1063,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "daa9522ba99426421e68f33576881055654cd9a831af83cb22ceffea7366116e"
+hash = "e4b422a800e8a9d79e90e49f4fff45dd8cf4442c1229d3edf5d0fde0845be76c"
 metafile = true
 
 [[files]]
@@ -1333,7 +1333,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "db47db11c5afb79489a33fbd740d606362e2d82a256407d656324f4abbc87337"
+hash = "ef1f31dc5f16c05e53e691b131d0f562b01835ba0fb9be88551cbcaf3bf13fc4"
 metafile = true
 
 [[files]]
@@ -1383,7 +1383,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cce6bdeb94f40f2e40f869d47a18207b2399b46774fd4a1b4d04290047af8444"
+hash = "2ecdf501afb32939567ea3944e19739e4db7e6818ba07c605b220ac70af7368b"
 metafile = true
 
 [[files]]
@@ -1453,7 +1453,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "6ab1db0ec8a48682bd3b68859af7f83dfd88de23e3862758ce4f53d445397a10"
+hash = "2a0bd4551541cc0c18fd2d4ced076387587111d3194c1737a62a4ad595260007"
 metafile = true
 
 [[files]]
