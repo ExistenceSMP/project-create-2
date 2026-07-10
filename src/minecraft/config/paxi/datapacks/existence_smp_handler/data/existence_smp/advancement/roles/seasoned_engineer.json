@@ -1,11 +1,11 @@
 {
 	"display": {
 		"icon": {
-			"id": "aeronautics:aviators_goggles"
+			"id": "create:goggles"
 		},
-		"title": "Founder",
-		"description": "Join during the first month of Project Create 2",
-		"frame": "goal",
+		"title": "Seasoned Engineer",
+		"description": "Returning Member from Project Create",
+		"frame": "task",
 		"show_toast": true,
 		"announce_to_chat": false,
 		"hidden": true

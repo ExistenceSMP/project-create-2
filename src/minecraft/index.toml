@@ -174,19 +174,19 @@ hash = "1478973c9cf2863f6d6658da88a6d9200688d7ba9e12816f0fe0912c4c12cd12"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/founder.json"
-hash = "03667722a23cce0ba89b31725feb3534f1104c05c57dba76d24d5b20251d47c4"
+hash = "424d742831007b0daa61f620126190aafa07c9cd13e7d5fa20a605e1eb10130a"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/legacy.json"
 hash = "812588f3e97109921f53d392f68248388829406f4c783e50aa18802558f28b3a"
 
 [[files]]
-file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/new_dawn.json"
-hash = "cb57baddba9e0320b2e6defc4220eb2e662a70a63509133c2ebf9da695c2b753"
-
-[[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/patron.json"
 hash = "0aaf58e7775e7c06682057837fde7903993764c40b1a5027c876ded35af3c6dc"
+
+[[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/seasoned_engineer.json"
+hash = "5d50503e848cc5e3d100fa24ed077868fbfab8b1bc36cbc7276198291df1127d"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/advancement/roles/spectate.json"
@@ -306,7 +306,7 @@ hash = "63a7b7245d5d5cca275e078c07de9f8d0e6c4c20eb14259a8b95d236ea2e4727"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/advancement_check.mcfunction"
-hash = "db86eafa38b524b777f259efc6ae888ada6deb858a8dad60b3d32c1404e40034"
+hash = "1b7286a646da120038b33ee464df85f89ee3e6b740b6923d242eafa7a6cd7780"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/advancement_check/deaths/100.mcfunction"

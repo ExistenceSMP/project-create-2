@@ -5,8 +5,6 @@ execute if score uptime_months exi_uptime matches 0 run advancement grant @s onl
 
 execute unless score @s exi_playtime_h matches 0.. run scoreboard players set @s exi_playtime_h 0
 execute unless score @s exi_elytra_km matches 0.. run scoreboard players set @s exi_elytra_km 0
-execute unless score @s exi_happy_ghast_km matches 0.. run scoreboard players set @s exi_happy_ghast_km 0
-execute unless score @s exi_nautilus_km matches 0.. run scoreboard players set @s exi_nautilus_km 0
 execute unless score @s exi_sprint_km matches 0.. run scoreboard players set @s exi_sprint_km 0
 execute unless score @s exi_walk_km matches 0.. run scoreboard players set @s exi_walk_km 0
 execute unless score @s exi_swim_km matches 0.. run scoreboard players set @s exi_swim_km 0
@@ -27,9 +25,6 @@ execute as @a run scoreboard players display numberformat @s exi_elytra_km
 
 # execute as @a run scoreboard players display numberformat @s exi_happy_ghast_km
 #execute as @a run scoreboard players display numberformat @s exi_happy_ghast_km fixed [{type:"score","score":{"name":"@s","objective":"exi_happy_ghast_km"},"color":"red"},{"text":"km","color":"red"}]
-
-execute as @a run scoreboard players display numberformat @s exi_nautilus_km
-#execute as @a run scoreboard players display numberformat @s exi_nautilus_km fixed [{type:"score","score":{"name":"@s","objective":"exi_nautilus_km"},"color":"red"},{"text":"km","color":"red"}]
 
 execute as @a run scoreboard players display numberformat @s exi_sprint_km
 #execute as @a run scoreboard players display numberformat @s exi_sprint_km fixed [{type:"score","score":{"name":"@s","objective":"exi_sprint_km"},"color":"red"},{"text":"km","color":"red"}]
@@ -125,58 +120,27 @@ tag @s[name="MatrixGolden"] add adv_legacy
 
 advancement grant @s[tag=adv_legacy] only existence_smp:roles/legacy
 
-#New Dawn
-tag @s[name="mcnugggzs"] add adv_new_dawn
-tag @s[name="Flaxxyy"] add adv_new_dawn
-tag @s[name="Dr_Little"] add adv_new_dawn
-tag @s[name="ThatDudeAsher"] add adv_new_dawn
-tag @s[name="Bananabubble"] add adv_new_dawn
-tag @s[name="ItsPurpleJay"] add adv_new_dawn
-tag @s[name="The_Toadster37"] add adv_new_dawn
-tag @s[name="Scarriana"] add adv_new_dawn
-tag @s[name="datCookieGuy"] add adv_new_dawn
-tag @s[name="Change24"] add adv_new_dawn
-tag @s[name="SugarCaney"] add adv_new_dawn
-tag @s[name="1stHowlerGamer"] add adv_new_dawn
-tag @s[name="Yoglington"] add adv_new_dawn
-tag @s[name="ArtGnat"] add adv_new_dawn
-tag @s[name="marcoiscool"] add adv_new_dawn
-tag @s[name="Project_"] add adv_new_dawn
-tag @s[name="Pure6198"] add adv_new_dawn
-tag @s[name="sniffles1228"] add adv_new_dawn
-tag @s[name="xX_stew_Xx"] add adv_new_dawn
-tag @s[name="Isogravity"] add adv_new_dawn
-tag @s[name="cyaniide_"] add adv_new_dawn
-tag @s[name="Rayezz"] add adv_new_dawn
-tag @s[name="Wolfe_42"] add adv_new_dawn
-tag @s[name="Theowlguardian"] add adv_new_dawn
-tag @s[name="Elite_Nudelsalat"] add adv_new_dawn
-tag @s[name="mcpeachpies"] add adv_new_dawn
-tag @s[name="EvieRemi"] add adv_new_dawn
-tag @s[name="ferggerman"] add adv_new_dawn
-tag @s[name="MtgSaber"] add adv_new_dawn
-tag @s[name="Pineapple_123"] add adv_new_dawn
-tag @s[name="kindabland"] add adv_new_dawn
-tag @s[name="leviandus"] add adv_new_dawn
-tag @s[name="cloudsclouds"] add adv_new_dawn
-tag @s[name="TCMidnite"] add adv_new_dawn
-tag @s[name="RobertStag"] add adv_new_dawn
-tag @s[name="KittyKatToeBeans"] add adv_new_dawn
-tag @s[name="TheAvagetarian"] add adv_new_dawn
-tag @s[name="Zach_Lilly"] add adv_new_dawn
-tag @s[name="igalaxy"] add adv_new_dawn
-tag @s[name="LTWillie"] add adv_new_dawn
-tag @s[name="Ha2222"] add adv_new_dawn
-tag @s[name="Seishirou_"] add adv_new_dawn
-tag @s[name="okietwister"] add adv_new_dawn
-tag @s[name="EarthySand25957"] add adv_new_dawn
-tag @s[name="Callan2256"] add adv_new_dawn
-tag @s[name="Hobojimmeh"] add adv_new_dawn
-tag @s[name="Simp_Meister"] add adv_new_dawn
-tag @s[name="Diamondback88"] add adv_new_dawn
-tag @s[name="Dashleb"] add adv_new_dawn
+#Seasoned Engineer
+tag @s[name="mcpeachpies"] add adv_seasoned_engineer
+tag @s[name="igalaxy"] add adv_seasoned_engineer
+tag @s[name="mcnugggzs"] add adv_seasoned_engineer
+tag @s[name="ItsPurpleJay"] add adv_seasoned_engineer
+tag @s[name="KSores"] add adv_seasoned_engineer
+tag @s[name="Dr_Little"] add adv_seasoned_engineer
+tag @s[name="Yoglington"] add adv_seasoned_engineer
+tag @s[name="SugarCaney"] add adv_seasoned_engineer
+tag @s[name="KittyKatToeBeans"] add adv_seasoned_engineer
+tag @s[name="marcoiscool"] add adv_seasoned_engineer
+tag @s[name="LordOfTheUndead"] add adv_seasoned_engineer
+tag @s[name="kindabland"] add adv_seasoned_engineer
+tag @s[name="1stHowlerGamer"] add adv_seasoned_engineer
+tag @s[name="Ha2222"] add adv_seasoned_engineer
+tag @s[name="Pineapple_123"] add adv_seasoned_engineer
+tag @s[name="Project_ "] add adv_seasoned_engineer
+tag @s[name="Delulu_"] add adv_seasoned_engineer
+tag @s[name="WilcoVanBaaren"] add adv_seasoned_engineer
 
-advancement grant @s[tag=adv_new_dawn] only existence_smp:roles/new_dawn
+advancement grant @s[tag=adv_seasoned_engineer] only existence_smp:roles/seasoned_engineer
 
 #EVENTS
 # tag @s[name="mcpeachpies"] add adv_events
