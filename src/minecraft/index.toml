@@ -554,7 +554,7 @@ hash = "934568593bb04cdcab3b0ae3816742c3542057998830c93de7c45a7253d8f12b"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/sable/tags/block/end_stones.json"
-hash = "f293834e72e0b5e8a5b35b08d7ba05d209903c371ff0b8c7c14c15a95aeba945"
+hash = "498a8882e798726b26cef119442ebf6197b69ed5dac277f361d3750994aef1d3"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/sable/tags/block/frictive.json"
@@ -570,7 +570,7 @@ hash = "85d58d3bfde6f01b45899c60696cefeed961be35706605551d7ef20f68c69c66"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/sable/tags/block/super_light.json"
-hash = "eb5a2585664323be93839d1f65d5e0cf57c088c8dcf355cf3059524b83585806"
+hash = "c42978698f22418edec5b4ad19cb3f90abaeae108b98e938fd5e6c681a5499c1"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/pack.mcmeta"
@@ -1140,8 +1140,9 @@ hash = "2d53b7007921f6174eb6d01f52aa91d8ff842add3a409828248ac91512889bcb"
 metafile = true
 
 [[files]]
-file = "mods/enderscape-neoforge-2.1.0+mc1.21.1.jar"
-hash = "026fde6b6ba31a34d9b2224f3282722901ae3ceb7145e8bc23d754bb62452ec6"
+file = "mods/enderscape.pw.toml"
+hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
+metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -1241,11 +1242,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "e4d7a4e64f0f7d48ff731605ff3c1ad6a90953a8fac51de34cd1713371d2e219"
-metafile = true
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "f42b18d7af3daf7d16ef1658d0c545e8fefd439de7a960d9599efa17b45ddb96"
 metafile = true
 
 [[files]]
