@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "24aa34708dd9e9cd08eddaa911f5da014aa566b87adeea186a8cbbcee59698a6"
+hash = "cfea5eb62e14afda78f43df8e266c89f19811b9a648db08261dfe8da79b85fe9"
 metafile = true
 
 [[files]]
@@ -1267,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/modulation.pw.toml"
-hash = "6af315af6d803fd58c98fba3b7b9fa856946a62efbea50e6d24c8d270a863754"
+hash = "2d39ed735279a14c6ea337116e4c753bc908fcf9cc3280f6c80d2350eafd4776"
 metafile = true
 
 [[files]]
@@ -1377,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "e32e434f778a1737229b4cbfb958860b3abbcf8160b805439293e7c93a00fdc4"
+hash = "532e78cb8b999da9c61bd29d90758fe245ecb212ebf6e2b4474d5f9269155f5f"
 metafile = true
 
 [[files]]
@@ -1387,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-requiem.pw.toml"
-hash = "e996e20d11e0fb6f7c6c1ab7df33f40890727c65a5211018708bf9fdcd762328"
+hash = "b532a2e0b91d0465866cba65e1546d9fd246f955be4473d0215c034dc6b381ba"
 metafile = true
 
 [[files]]
@@ -1487,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "2a0bd4551541cc0c18fd2d4ced076387587111d3194c1737a62a4ad595260007"
+hash = "72a87e8f206b940ab1f6890f154864609470cc116cddac7204a3294e95bb8bcd"
 metafile = true
 
 [[files]]
