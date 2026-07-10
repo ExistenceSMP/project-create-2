@@ -1,24 +1,4 @@
 {
 	"replace": false,
-	"values": [
-		"enderscape:end_stone_stairs",
-		"enderscape:end_stone_slab",
-		"enderscape:end_stone_wall",
-		"enderscape:polished_end_stone",
-		"enderscape:polished_end_stone_stairs",
-		"enderscape:polished_end_stone_slab",
-		"enderscape:polished_end_stone_wall",
-		"enderscape:chiseled_end_stone",
-		"#enderscape:veradite_blocks",
-		"#enderscape:mirestone_blocks",
-		"#enderscape:kurodite_blocks",
-		"enderscape:mirestone_shadoline_ore",
-		"enderscape:shadoline_ore",
-		"enderscape:mirestone_nebulite_ore",
-		"enderscape:nebulite_ore",
-		"enderscape:veiled_end_stone",
-		"enderscape:corrupt_path_block",
-		"enderscape:celestial_overgrowth",
-		"enderscape:celestial_path_block"
-	]
+	"values": []
 }
