@@ -17,6 +17,10 @@ file = "config/environmental-client.toml"
 hash = "ed620719ad5fd24d8346bb1b420e9f0d883a03297167d37009d7bbcd486190e7"
 
 [[files]]
+file = "config/everycomp-common.toml"
+hash = "71769d5e2bd587a33bb7ca0194ef15419c731471b950de3103cf0ce570473663"
+
+[[files]]
 file = "config/fieldguide-client.json"
 hash = "ec474c694a37f5416bdd99f971f8a85e18bcaf5eadbf3738234a76fd588f5126"
 
