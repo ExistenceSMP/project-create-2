@@ -3,11 +3,11 @@ filename = "DerpWood.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bht1LWst/versions/eAQTirEH/DerpWood.zip"
+url = "https://cdn.modrinth.com/data/bht1LWst/versions/lJGqO9U1/DerpWood.zip"
 hash-format = "sha1"
-hash = "b8eaaccdfb5408adf2067b2c3e40928cdbdc97e1"
+hash = "f620815e7587337b9c83fb99a347889c4682c040"
 
 [update]
 [update.modrinth]
 mod-id = "bht1LWst"
-version = "eAQTirEH"
+version = "lJGqO9U1"

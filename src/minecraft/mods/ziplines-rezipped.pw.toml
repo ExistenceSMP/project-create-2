@@ -1,13 +1,13 @@
 name = "Ziplines: Rezipped!"
-filename = "zipline-neoforge-1.21.1-1.3.0.jar"
+filename = "zipline-neoforge-1.21.1-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/C1MoWQlb/versions/AMUQhQYc/zipline-neoforge-1.21.1-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/C1MoWQlb/versions/aVb4ojPr/zipline-neoforge-1.21.1-1.4.0.jar"
 hash-format = "sha1"
-hash = "aa10a78b64d290713439047a8d01d9e7843fba6c"
+hash = "1a0ff2fa0583b9842593d6d1969a2808735014b5"
 
 [update]
 [update.modrinth]
 mod-id = "C1MoWQlb"
-version = "AMUQhQYc"
+version = "aVb4ojPr"

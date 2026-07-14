@@ -1,13 +1,13 @@
 name = "Reliable Requiem"
-filename = "reliable_requiem-neoforge-1.21.1-1.1.0.jar"
+filename = "reliable_requiem-neoforge-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/a744zhJU/versions/RaqUmMhk/reliable_requiem-neoforge-1.21.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/a744zhJU/versions/3L4gYoxd/reliable_requiem-neoforge-1.21.1-1.1.1.jar"
 hash-format = "sha1"
-hash = "9ef7fcc263896e2a2e283fc648eb018ac9298eb1"
+hash = "fe734876d5f933901b1310c7cb1170e471f6b0cb"
 
 [update]
 [update.modrinth]
 mod-id = "a744zhJU"
-version = "RaqUmMhk"
+version = "3L4gYoxd"
