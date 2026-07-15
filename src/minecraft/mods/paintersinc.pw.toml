@@ -1,0 +1,13 @@
+name = "PaintersInc"
+filename = "painters_inc-1.21.1-2.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aPZwI0e8/versions/l0vYktpu/painters_inc-1.21.1-2.0.0-neoforge.jar"
+hash-format = "sha1"
+hash = "6f71933560f4714627b4aff5c10f9d80c930a72a"
+
+[update]
+[update.modrinth]
+mod-id = "aPZwI0e8"
+version = "l0vYktpu"

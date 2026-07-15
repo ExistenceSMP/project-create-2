@@ -947,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "3ad2f170a52cc65921a4b88e26ac9536194c7ce32430adfb6aa46be861eb2727"
+hash = "a21d68ac1236829e13b03c5ebea91f7f9523d62f746527be21bee52d2d066ae1"
 metafile = true
 
 [[files]]
@@ -1271,7 +1271,7 @@ metafile = true
 
 [[files]]
 file = "mods/modulation.pw.toml"
-hash = "60293c1a3846fe10374dde30f82253f68e5a3e36042b86b26b90a5c84f540ab9"
+hash = "53c1f2a5b42bbc770ee14e9dd8b52d66d937496044124f0cdce5100e05c68b8b"
 metafile = true
 
 [[files]]
@@ -1320,6 +1320,11 @@ hash = "37ea60e6c08e5fa9d1fb30abbe1fa0899f11ef17b9ff65f4ea05eafa093161ba"
 metafile = true
 
 [[files]]
+file = "mods/paintersinc.pw.toml"
+hash = "f42d79614f3bae295db685e5a1484b8a4ae6cb7099e4c925824348ce737f5a9f"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "916bc9c9945d072cbdec42553c3daef5b47ae113304bee2f2d81c0e5b2512d9c"
 metafile = true
@@ -1361,7 +1366,7 @@ metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "7fbcabd12d0f719b8fbf65a7fc93d7267f7c1df4bb4453b7694f000dc95f3603"
+hash = "8dce02f9f043de56709270c7f7af8e27e476670627d1de267da998babed30428"
 metafile = true
 
 [[files]]
@@ -1386,7 +1391,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "4cc9bcf8c5b593528aafb8b5c0bfa9e34f619bfb48b5c0b79f39e6ee29ca608a"
+hash = "95fd5d92d516da189e5c219137000c6d677bf839b92cf450fb96a54dacbe3190"
 metafile = true
 
 [[files]]
@@ -1456,7 +1461,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiny-takeover-backport.pw.toml"
-hash = "14fd312839070698829ca4699995f88660a87bc644b1795aabde84e0a0625dae"
+hash = "0f71d554c200859eecd871dd2ccab1b9e5da3b026db120480e86b1304b5d3df0"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Tiny Takeover Backport"
-filename = "tiny_takeover_backport-neoforge-1.21.1-1.1.1.jar"
+filename = "tiny_takeover_backport-neoforge-1.21.1-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/F4TmfqsY/versions/1BKbDUg7/tiny_takeover_backport-neoforge-1.21.1-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/F4TmfqsY/versions/YXoo1Wva/tiny_takeover_backport-neoforge-1.21.1-1.2.1.jar"
 hash-format = "sha1"
-hash = "499f50bec00668537b4cbd971ab1c4917b63b255"
+hash = "0e5ce098889643b695479a22c3ae4f0eecd52799"
 
 [update]
 [update.modrinth]
 mod-id = "F4TmfqsY"
-version = "1BKbDUg7"
+version = "YXoo1Wva"

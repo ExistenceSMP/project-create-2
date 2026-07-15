@@ -1,13 +1,13 @@
 name = "Modulation"
-filename = "modulation-neoforge-1.21.1-1.7.2.jar"
+filename = "modulation-neoforge-1.21.1-1.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ItRzabx0/versions/U7BDsQ6B/modulation-neoforge-1.21.1-1.7.2.jar"
+url = "https://cdn.modrinth.com/data/ItRzabx0/versions/dL2zRKLu/modulation-neoforge-1.21.1-1.8.0.jar"
 hash-format = "sha1"
-hash = "b6bbea1bb13cd9cd2e5db710d49f9175888ed951"
+hash = "c22aeb1543720e3e07109f60afef3265d694367f"
 
 [update]
 [update.modrinth]
 mod-id = "ItRzabx0"
-version = "U7BDsQ6B"
+version = "dL2zRKLu"
