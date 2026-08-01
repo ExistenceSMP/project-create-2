@@ -1,13 +1,13 @@
 name = "Scholar"
-filename = "scholar-neoforge-1.21.1-1.2.3.jar"
+filename = "scholar-neoforge-1.21.1-1.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fX4dIQCo/versions/cgEfPOsX/scholar-neoforge-1.21.1-1.2.3.jar"
+url = "https://cdn.modrinth.com/data/fX4dIQCo/versions/5ekGrx8w/scholar-neoforge-1.21.1-1.2.4.jar"
 hash-format = "sha1"
-hash = "0177a835b9d1d885a7f83a30fa70988e0d1f77c5"
+hash = "c00a239520937aff35fe4660786f4d1b22d6d42e"
 
 [update]
 [update.modrinth]
 mod-id = "fX4dIQCo"
-version = "cgEfPOsX"
+version = "5ekGrx8w"

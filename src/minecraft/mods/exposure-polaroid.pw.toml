@@ -1,13 +1,13 @@
 name = "Exposure: Polaroid"
-filename = "exposure_polaroid-neoforge-1.21.1-1.1.5.jar"
+filename = "exposure_polaroid-neoforge-1.21.1-1.1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEWiqYkW/versions/88CBvo76/exposure_polaroid-neoforge-1.21.1-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/WEWiqYkW/versions/WfVyzdJL/exposure_polaroid-neoforge-1.21.1-1.1.6.jar"
 hash-format = "sha1"
-hash = "21bb0d20347c0fae7700d9a0ea7d956df2da5c72"
+hash = "141ea133aff47e1655bd4a4937688bede22ebe58"
 
 [update]
 [update.modrinth]
 mod-id = "WEWiqYkW"
-version = "88CBvo76"
+version = "WfVyzdJL"

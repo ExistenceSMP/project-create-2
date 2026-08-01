@@ -1,0 +1,13 @@
+name = "Create: Coasters Simulated"
+filename = "simulatedcoasters-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W1ZUfWdr/versions/IXr3Jch9/simulatedcoasters-0.1.jar"
+hash-format = "sha1"
+hash = "eb9d19030bbd63f6f5ffba2adf918bb2420f4545"
+
+[update]
+[update.modrinth]
+mod-id = "W1ZUfWdr"
+version = "IXr3Jch9"

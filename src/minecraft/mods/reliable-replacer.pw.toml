@@ -1,13 +1,13 @@
 name = "Reliable Replacer"
-filename = "reliable_replacer-neoforge-1.21.1-1.5.5.jar"
+filename = "reliable_replacer-neoforge-1.21.1-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/swDAEYpN/versions/XnMm4kI7/reliable_replacer-neoforge-1.21.1-1.5.5.jar"
+url = "https://cdn.modrinth.com/data/swDAEYpN/versions/cacrKNh5/reliable_replacer-neoforge-1.21.1-1.7.0.jar"
 hash-format = "sha1"
-hash = "da8341a431c76b535daef886d0bb7a678ea57d92"
+hash = "91e2f5b795352cc84879bc80e58d53fe0477a099"
 
 [update]
 [update.modrinth]
 mod-id = "swDAEYpN"
-version = "XnMm4kI7"
+version = "cacrKNh5"
