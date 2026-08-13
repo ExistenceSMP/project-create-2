@@ -1130,6 +1130,11 @@ hash = "ef1802edbf32a2d8cdf66bee16ab2b98621b67555702762c59f1bf1f9f762eca"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "36d0f44b8670ce6cbc7c55437eac34f1c29d8596184a6e80f89d45e434cd295b"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "537d0d6b7301086fcc79fcddfe512aeb36ffacbf61fadb2f8660c32c8416a4e1"
 metafile = true
@@ -1201,7 +1206,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "81689e3417cc95d460a5dc851385f2bc6b91f811d334cb0f48d604979e1acf3b"
+hash = "4c9802167fa2e34721e597c3171c0cab8d3916f002562d14688c7cc0dd68b631"
 metafile = true
 
 [[files]]
@@ -1506,7 +1511,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "fbbb3c7cb4e88d60eb9f9cd64c47fce6b91132f871619ae7e6ffb9ac079702e3"
+hash = "83515b23902492ac0210a70039585124490253309612e8a1b42c277de35755ca"
 metafile = true
 
 [[files]]
