@@ -995,6 +995,11 @@ hash = "3e65d3da431b2efafc39edebffb7cc6ae838b9d3c246bfc0e18cd460577a0548"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
+metafile = true
+
+[[files]]
 file = "mods/clayworks.pw.toml"
 hash = "4813f91464a98c31493fba152f5d56472875345d8ad3e092f2df633605a1bf36"
 metafile = true
@@ -1076,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
-hash = "827899474bc4448242e32dd3d3d4a46283d2995b577e710fcc882774d340d0ae"
+hash = "dbf2c283f50cbe56717965f9c2d4e97674b05231995f16f114e3f8b73643d50b"
 metafile = true
 
 [[files]]
@@ -1166,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "ee849733a2d8633e7caccde9ee1e50bcd8c7263df6adce7e5821aaa1673fb79d"
+hash = "37837e070e56f87658723ea7b0415df0842527d2a1dfa4a95252e1d05087eee4"
 metafile = true
 
 [[files]]
@@ -1391,7 +1396,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-gliders.pw.toml"
-hash = "17c54d1d3089c7a04b403e4ebd0004771715352da72b51b8071d416eaf7f8792"
+hash = "d4d260659ba30596206cb731afcb6f4ea59c69d96e531359d12ae331a6ddfcec"
 metafile = true
 
 [[files]]
@@ -1471,7 +1476,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiny-takeover-backport.pw.toml"
-hash = "72a7b7a850a2d7885ef202837a52034af02cbaa7b77b046077f0aaaafb5d1645"
+hash = "061c01070419c41529d70149ce5066f4c114389d9da1c2838fb94b6e5b543d68"
 metafile = true
 
 [[files]]
