@@ -1460,6 +1460,11 @@ hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "22a65829892382f1f4a8cea2c788fcedabf231c86b0852f9cbe33c65436a0d53"
 metafile = true
