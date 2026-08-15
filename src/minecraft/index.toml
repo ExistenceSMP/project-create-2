@@ -1440,6 +1440,11 @@ hash = "3128db38c1d47f40f0b245d83f6bd103ed6f37388a45a5547aac46bbb2dc1501"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "8eae737eb20a0488e9b57b6a59f0681d142732bcb22fc896ad4e5ff924ec5683"
+metafile = true
+
+[[files]]
 file = "mods/sneaky-link.pw.toml"
 hash = "0a22730ec263dfddf74401f661b692fc59592e62fa4810a249b6c8c08f592302"
 metafile = true
