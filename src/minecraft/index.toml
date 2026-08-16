@@ -811,6 +811,10 @@ hash = "9f44e87f2374527e1ace02d37d63d1fa16dfc629ec9f03fc04265ef5fa596b03"
 metafile = true
 
 [[files]]
+file = "config/personality-client.toml"
+hash = "34aa1abff981888e6feffe7150fdced176574400d1df771ac9e441b6d7111be8"
+
+[[files]]
 file = "config/reliable_advancements.json"
 hash = "1b6ed049a6665888c29bcfbf15744839d566b701089be9fe79459d39af9cd180"
 
