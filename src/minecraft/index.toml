@@ -498,7 +498,7 @@ hash = "1ce645f61a9dc62ef6ba7e778e491ff2c70079447f076c145c185768415da1ec"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/transfer.mcfunction"
-hash = "f42e57fe8f007d1487d78f9644f1d1687c265ab9b59770f394b501b03d09eb0e"
+hash = "dd2c93c8d086d3ccef8a8549e737a4e203184d46c7d72798589d1babc270b531"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/existence_smp/function/triggers/uptime.mcfunction"
@@ -921,6 +921,11 @@ hash = "37736531e60f802eeb2b81be554f42183377f1c010cd21bc1ae0dfb37d9d7012"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e75b840972ed4812c65083a4c4736b89ae7991c35602da536d826d5da58819d2"
 metafile = true
@@ -1222,6 +1227,11 @@ metafile = true
 [[files]]
 file = "mods/gallery.pw.toml"
 hash = "c6caea8e7f95ff3b25a3aa76fc5be98f189411455e12d07ce0b356ea94e9d030"
+metafile = true
+
+[[files]]
+file = "mods/immersive-maps.pw.toml"
+hash = "deb221ce93fb4cf2f5b52091d1b7186bfc9e2eaf571cd9c96ce35b61b90f3d2e"
 metafile = true
 
 [[files]]
@@ -1527,6 +1537,11 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "83515b23902492ac0210a70039585124490253309612e8a1b42c277de35755ca"
+metafile = true
+
+[[files]]
+file = "mods/wayfarerlib.pw.toml"
+hash = "b3647a92556cbe88262494ebae632818d944f1a76291472a69a2cac5d667401a"
 metafile = true
 
 [[files]]
