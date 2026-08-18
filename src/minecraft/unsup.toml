@@ -19,7 +19,7 @@ side = "client"
 id = "no_minimap"
 name = "None"
 description = "Bring your own minimap mod, or use none at all."
-[[flavor_groups.world_map_mod.choices]]
+[[flavor_groups.minimap_mod.choices]]
 id = "xaeros_minimap"
 name = "Xaero's Minimap"
 description = "Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked."
