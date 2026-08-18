@@ -1,13 +1,13 @@
 name = "Enderpearl Backport"
-filename = "enderpearlbackport-1.1.jar"
+filename = "enderpearl-backport-1.21-1.1.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/tfgqelN2/versions/FYkfuZlB/enderpearlbackport-1.1.jar"
+url = "https://cdn.modrinth.com/data/tfgqelN2/versions/iNDHgEJS/enderpearl-backport-1.21-1.1.5.jar"
 hash-format = "sha512"
-hash = "9f9ffcb0a615436a70a306b4280df34635cab40b1986942cba84364f7802d7ebd63625ec60fb3d7b70ee3eb8f054fe929c477ab1d5d70d636eefd801165742c6"
+hash = "b3ab735981ed6df9471a7ddbe1b2f859227dcf4120005a89670d1145f3da21e71324347c1c30eacec7d151fb4a305b088980b1e1ece8982b905553ff111126d3"
 
 [update]
 [update.modrinth]
 mod-id = "tfgqelN2"
-version = "FYkfuZlB"
+version = "iNDHgEJS"
