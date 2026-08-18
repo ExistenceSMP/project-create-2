@@ -1230,7 +1230,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-maps.pw.toml"
-hash = "deb221ce93fb4cf2f5b52091d1b7186bfc9e2eaf571cd9c96ce35b61b90f3d2e"
+hash = "9091a558da6d5250f43433b8b363886557940062ece63a89b4569327ba0422ed"
 metafile = true
 
 [[files]]
@@ -1589,8 +1589,8 @@ hash = "f8b07a9bfb24c77bfb198af0d001b4694b5617b58af606ae34ee84e2edabbb94"
 
 [[files]]
 file = "unsup.ini"
-hash = "b9747e950dc84db42c3e40f326b53c4d140e09be4d42802834759009b5c51b95"
+hash = "4cbd7ed210f3b1bb633105825793799e1b024017bae701cdb63b9b1c7e490b75"
 
 [[files]]
 file = "unsup.toml"
-hash = "37aa4068444c8a32a9b25226480edb62143c0c6a23fb75b1746e8d1c11ab2531"
+hash = "ec1323b25e24cb7733134a133cc64e5ee3ebf5b3fe917b4fe7d140e83d0157f7"
