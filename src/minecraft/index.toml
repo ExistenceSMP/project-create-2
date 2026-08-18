@@ -1159,6 +1159,11 @@ hash = "2d53b7007921f6174eb6d01f52aa91d8ff842add3a409828248ac91512889bcb"
 metafile = true
 
 [[files]]
+file = "mods/enderpearl-backport.pw.toml"
+hash = "58413c553a40461ed11843ef58f625fa57d129dc9ae04209528e190c561c677c"
+metafile = true
+
+[[files]]
 file = "mods/enderscape.pw.toml"
 hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
 metafile = true
