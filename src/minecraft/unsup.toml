@@ -25,6 +25,6 @@ name = "Xaero's Minimap"
 description = "Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked."
 
 [metafile.xaeros-world-map]
-flavors = ["xaeros_world_map"]
+flavors = "xaeros_world_map"
 [metafile.xaeros-minimap]
-flavors = ["xaeros_minimap"]
+flavors = "xaeros_minimap"
