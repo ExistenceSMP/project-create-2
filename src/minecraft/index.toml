@@ -1549,6 +1549,16 @@ hash = "8b00fcddedadf0b6f1144743d75d258a6729bbe2d8f74a2e624393442b0af52f"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "8e6b550c3e2bb3eea2455fe751833bca0d3117d6eb8c31b702fe14ba7f9002a4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9a52d0a2c348a5f97586fc6ec404fa6d66e2232e384513e42913aaac14159e58"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
@@ -1575,3 +1585,7 @@ hash = "f8b07a9bfb24c77bfb198af0d001b4694b5617b58af606ae34ee84e2edabbb94"
 [[files]]
 file = "unsup.ini"
 hash = "b9747e950dc84db42c3e40f326b53c4d140e09be4d42802834759009b5c51b95"
+
+[[files]]
+file = "unsup.toml"
+hash = "e65c6e27ba0e18e400166cfc9386dcfd7e6f68c1d7f8b3377b968d8910ec29d4"
