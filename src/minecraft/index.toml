@@ -1244,6 +1244,11 @@ hash = "6fa722425ea84c88198f08fdc798eed19c485ad8955e3a01b8d5e0a504e5586d"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "b5d6ba05e4315d7918399b177f77d692f3b98ef7557963f2defeea4fb46ddbbb"
+metafile = true
+
+[[files]]
 file = "mods/item-descriptions.pw.toml"
 hash = "26a17372b4377796c2bf849a2091b9b5bab13886cbb6b88b05a6f074bb360a66"
 metafile = true
