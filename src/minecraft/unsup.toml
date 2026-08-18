@@ -7,10 +7,6 @@ id = "no_world_map"
 name = "None"
 description = "Bring your own world map mod, or use none at all."
 [[flavor_groups.world_map_mod.choices]]
-id = "immersive_maps"
-name = "Immersive Maps"
-description = "An immersive and vanilla-friendly take on waypoints and navigation using maps!"
-[[flavor_groups.world_map_mod.choices]]
 id = "xaeros_world_map"
 name = "Xaero's World Map"
 description = "Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap."
@@ -23,6 +19,10 @@ side = "client"
 id = "no_minimap"
 name = "None"
 description = "Bring your own minimap mod, or use none at all."
+[[flavor_groups.minimap_mod.choices]]
+id = "immersive_maps"
+name = "Immersive Maps"
+description = "An immersive and vanilla-friendly take on waypoints and navigation using maps!"
 [[flavor_groups.minimap_mod.choices]]
 id = "xaeros_minimap"
 name = "Xaero's Minimap"
