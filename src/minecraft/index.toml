@@ -1160,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderpearl-backport.pw.toml"
-hash = "91b57c349b546bed0fa443de9775304ae2ecf840a249fec240b10c8e531d582a"
+hash = "ed31cd3071a92a229f669fd18058f7251f23f063eb31ee7d0add6cbbb618afb9"
 metafile = true
 
 [[files]]
