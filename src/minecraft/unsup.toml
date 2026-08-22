@@ -20,16 +20,10 @@ id = "no_minimap"
 name = "None"
 description = "Bring your own minimap mod, or use none at all."
 [[flavor_groups.minimap_mod.choices]]
-id = "immersive_maps"
-name = "Immersive Maps"
-description = "An immersive and vanilla-friendly take on waypoints and navigation using maps!"
-[[flavor_groups.minimap_mod.choices]]
 id = "xaeros_minimap"
 name = "Xaero's Minimap"
 description = "Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked."
 
-[metafile.immersive-maps]
-flavors = "immersive_maps"
 [metafile.xaeros-world-map]
 flavors = "xaeros_world_map"
 [metafile.xaeros-minimap]

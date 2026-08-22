@@ -1,0 +1,13 @@
+name = "Speedometer"
+filename = "speedometer-1.0.0_neoforge_1.21+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/umcy6FdX/versions/X7vsns3Q/speedometer-1.0.0_neoforge_1.21%2B.jar"
+hash-format = "sha512"
+hash = "d7822ef3c7c9bdbcb80012f5292fced162ea8800c8e3c85253a40672640c284b6ee3d42f786a0c7a5d1c1ccd8033a635f548f547a6e9f3c15d3cf0fb736e6b2b"
+
+[update]
+[update.modrinth]
+mod-id = "umcy6FdX"
+version = "X7vsns3Q"
