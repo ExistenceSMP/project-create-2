@@ -22,7 +22,7 @@ hash = "71769d5e2bd587a33bb7ca0194ef15419c731471b950de3103cf0ce570473663"
 
 [[files]]
 file = "config/fieldguide-client.json"
-hash = "ec474c694a37f5416bdd99f971f8a85e18bcaf5eadbf3738234a76fd588f5126"
+hash = "d66c54cb0cb317568154309b1f2f61be25b8aa699636328779b63eddd2c03976"
 
 [[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/create/recipe/crushing/tuff.json"
