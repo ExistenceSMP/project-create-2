@@ -1,0 +1,24 @@
+{
+  "items": {
+    "#c:foods/soup": 16,
+    "#c:eggs": 64,
+    "#c:music_discs": 16,
+    "minecraft:enchanted_book": 64,
+    "#minecraft:beds": 16,
+    "#minecraft:boats": 16,
+    "#minecraft:harnesses": 16,
+    "minecraft:snowball": 64,
+    "#c:potions": 3,
+    "minecraft:cake": 16,
+    "#c:foods/cake": 16,
+    "enderscape:chorus_cake_roll": 16,
+    "minecraft:ender_pearl": 64,
+    "#sensible_stackables:minecarts": 16,
+    "minecraft:saddle": 16,
+    "urkazmoontools:moonclock_item": 64,
+    "speedometer:speedometer": 64
+  },
+  "splashPotionCooldown": 1,
+  "uncapStackSize": false,
+  "commonStackSize": 64
+}
