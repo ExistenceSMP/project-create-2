@@ -1,0 +1,13 @@
+name = "Muki's Extra Banners"
+filename = "mukis_extra_banners_dp_v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWkNwf3t/versions/xgKAJhMf/mukis_extra_banners_dp_v1.0.zip"
+hash-format = "sha512"
+hash = "a69b3fc89b659bce987b1598e47098f7513af648fffdfe7a2e28e334b77677c8590175368c09f3a400a80f21cef035e128f7ad932c19ac7c4e6c4bfe955e70cd"
+
+[update]
+[update.modrinth]
+mod-id = "uWkNwf3t"
+version = "xgKAJhMf"

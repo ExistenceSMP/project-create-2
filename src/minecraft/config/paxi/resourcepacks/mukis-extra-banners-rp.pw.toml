@@ -1,0 +1,8 @@
+name = "mukis-extra-banners-rp"
+filename = "mukis_extra_banners_rp_v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWkNwf3t/versions/xgKAJhMf/mukis_extra_banners_rp_v1.0.zip"
+hash-format = "sha256"
+hash = "72058ecab9b8d3fdf883a4e174f921cbce0f0e9a25214331ed12a720876b3321"

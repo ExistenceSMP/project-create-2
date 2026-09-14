@@ -1,0 +1,13 @@
+name = "Create: Copper Oxidizing"
+filename = "oxidizingcopper.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HzL1HSIW/versions/C0AMUp3v/oxidizingcopper.zip"
+hash-format = "sha512"
+hash = "e907bfc88af1d30f82faafc7d1ba47c62589643388f90bab8f6e363fe70aeddc4fd99ec55d66b451066842cf4a6bad364d5b388cc957f1ebfedac51b20e7b01e"
+
+[update]
+[update.modrinth]
+mod-id = "HzL1HSIW"
+version = "C0AMUp3v"
