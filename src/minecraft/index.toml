@@ -38,6 +38,10 @@ hash = "acda218b4915f175aa232413458579a123ea7bc99aca1d8787fe1438bc184e70"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/existence_smp_handler/data/aeronautics/tags/item/burner_fire.json"
+hash = "5ea55f04e51b272c0080c486caf1cf8cd988db5a063832773f74f4a01f80d56a"
+
+[[files]]
 file = "config/paxi/datapacks/existence_smp_handler/data/c/tags/block/lightning_rods.json"
 hash = "37908dfaef5da643d92ae5b012f22b4e1973e14f024b9b53f70a50efdf074c23"
 
