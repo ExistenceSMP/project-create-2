@@ -840,6 +840,10 @@ hash = "80f3bf087de6cc56980a5cefed751f165989dd5b63dac4f682a9cc9408b20079"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/create-2-pano.zip"
+hash = "f8cd64c80369740836fc2580ad8fc9b9a0babbcb58513858ab5b692850434101"
+
+[[files]]
 file = "config/paxi/resourcepacks/derps-disc-fix.pw.toml"
 hash = "fadf05a43bd6d2985615153973bcac5c6c645026f97b5ff6d8b65982ea69c94e"
 metafile = true
